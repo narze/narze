@@ -1,0 +1,5 @@
+Active projects :
+
+<% @active_projects.each do |project| %>
+- [<%= project[:name] %>](<%= project[:link] %>) : <%= project[:duration] %>
+<% end %>

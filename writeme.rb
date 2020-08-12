@@ -1,3 +1,4 @@
+require "erb"
 require "httparty"
 require "nokogiri"
 
@@ -13,11 +14,21 @@ til_response = HTTParty.get("https://raw.githubusercontent.com/narze/til/master/
 
 til_entries = til_response.body.split("\n")[2].delete("^0-9")
 
-content = <<~EOF
-  Active projects :
+@active_projects = [
+  {
+    name: "#100DaysOfCode",
+    link: "https://github.com/narze/100daysofcode",
+    duration: "#{day} Days",
+  },
+  {
+    name: "Today I Learned",
+    link: "https://github.com/narze/til",
+    duration: "#{til_entries} Entries",
+  }
+]
 
-  - [#100DaysOfCode](https://github.com/narze/100daysofcode) : #{day} Days
-  - [Today I Learned](https://github.com/narze/til) : #{til_entries} Entries
-EOF
+template = File.read("writeme.md.erb")
+
+content = ERB.new(template, nil, "<>").result
 
 File.write("README.md", content)
