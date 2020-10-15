@@ -3,3 +3,12 @@ Active projects :
 <% @active_projects.each do |project| %>
 - [<%= project[:name] %>](<%= project[:link] %>) : <%= project[:duration] %>
 <% end %>
+
+<% if Time.now.month == 10 %>
+Hacktoberfest Projects :
+
+- [ต่อเพลง](https://github.com/narze/torpleng)
+- [Harassless](https://github.com/narze/harassless)
+- [Thailand Hall of #save](https://github.com/narze/thailand-hall-of-save)
+- [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
+<% end %>
