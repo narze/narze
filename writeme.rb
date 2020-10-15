@@ -15,9 +15,9 @@ digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
 
 @active_projects = [
   {
-    name: "#100DaysOfCode",
-    link: "https://github.com/narze/100daysofcode",
-    duration: "#{day} Days",
+    name: "Digital Garden",
+    link: "https://monosor.com",
+    duration: "#{digital_garden_posts_count} Posts",
   },
   {
     name: "Today I Learned",
@@ -25,9 +25,9 @@ digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
     duration: "#{til_entries} Entries",
   },
   {
-    name: "Digital Garden",
-    link: "https://monosor.com",
-    duration: "#{digital_garden_posts_count} Posts",
+    name: "#100DaysOfCode",
+    link: "https://github.com/narze/100daysofcode",
+    duration: "#{day} Days! 🎉",
   },
 ]
 
