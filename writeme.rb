@@ -31,6 +31,17 @@ digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
   },
 ]
 
+torpleng_res = HTTParty.get("https://raw.githubusercontent.com/narze/torpleng/main/README.md")
+torpleng_entries = torpleng_res.body.split("# Entries").last.strip.split("\n").select { |l| l.start_with?("- ") }.size
+
+asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-quotes/main/README.md")
+asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
+
+@special_projects = {
+  torpleng: "(#{torpleng_entries} เพลง)",
+  awesome_salim_quotes: "(#{asq_entries} Quotes)",
+}
+
 template = File.read("writeme.md.erb")
 
 content = ERB.new(template, nil, "<>").result
