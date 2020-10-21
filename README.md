@@ -7,10 +7,10 @@ Active projects :
 Hacktoberfest Projects :
 
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
-- [ต่อเพลง](https://github.com/narze/torpleng) (33 เพลง)
+- [ต่อเพลง](https://github.com/narze/torpleng) (35 เพลง)
 - [Harassless](https://github.com/narze/harassless)
 - [Thailand Hall of #save](https://github.com/narze/thailand-hall-of-save)
 - [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
 - [PokeMob](https://github.com/narze/PokeMob)
 - [ได้ไหม!?](https://github.com/narze/DaiMai)
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (106 Quotes)
+- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (109 Quotes)
