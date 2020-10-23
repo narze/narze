@@ -13,4 +13,4 @@ Hacktoberfest Projects :
 - [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
 - [PokeMob](https://github.com/narze/PokeMob)
 - [ได้ไหม!?](https://github.com/narze/DaiMai)
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (134 Quotes)
+- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (136 Quotes)
