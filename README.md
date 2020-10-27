@@ -1,6 +1,6 @@
 Active projects :
 
-- [Digital Garden](https://monosor.com) : 26 Posts
+- [Digital Garden](https://monosor.com) : 27 Posts
 - [Today I Learned](https://github.com/narze/til) : 20 Entries
 - [#100DaysOfCode](https://github.com/narze/100daysofcode) : 100 Days! 🎉
 
@@ -13,4 +13,4 @@ Hacktoberfest Projects :
 - [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
 - [PokeMob](https://github.com/narze/PokeMob)
 - [ได้ไหม!?](https://github.com/narze/DaiMai)
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (156 Quotes)
+- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (158 Quotes)
