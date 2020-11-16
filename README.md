@@ -7,7 +7,7 @@ Active projects :
 Hacktoberfest Projects :
 
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
-- [ต่อเพลง](https://github.com/narze/torpleng) (59 เพลง)
+- [ต่อเพลง](https://github.com/narze/torpleng) (60 เพลง)
 - [Harassless](https://github.com/narze/harassless)
 - [Thailand Hall of #save](https://github.com/narze/thailand-hall-of-save)
 - [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
