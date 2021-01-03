@@ -1,6 +1,6 @@
 Active projects :
 
-- [Digital Garden](https://monosor.com) : 38 Posts
+- [Digital Garden](https://monosor.com) : 39 Posts
 - [Today I Learned](https://github.com/narze/til) : 20 Entries
 - [#100DaysOfCode](https://github.com/narze/100daysofcode) : 100 Days! 🎉
 
