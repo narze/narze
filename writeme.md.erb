@@ -1,18 +1,21 @@
 Active projects :
 
 <% @active_projects.each do |project| %>
-- [<%= project[:name] %>](<%= project[:link] %>) : <%= project[:duration] %>
+- [<%= project[:name] %>](<%= project[:link] %>) <% if project[:duration] %>: <%= project[:duration] %><% end %>
 <% end %>
 
-<% if true || Time.now.month == 10 %>
+Past projects :
+
+<% @past_projects.each do |project| %>
+- [<%= project[:name] %>](<%= project[:link] %>)<% if project[:duration] %> : <%= project[:duration] %><% end %>
+<% end %>
+
+<% if Time.now.month == 10 %>
 Hacktoberfest Projects :
 
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
 - [ต่อเพลง](https://github.com/narze/torpleng) <%= @special_projects[:torpleng] %>
-- [Harassless](https://github.com/narze/harassless)
 - [Thailand Hall of #save](https://github.com/narze/thailand-hall-of-save)
 - [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
 - [PokeMob](https://github.com/narze/PokeMob)
-- [ได้ไหม!?](https://github.com/narze/DaiMai)
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) <%= @special_projects[:awesome_salim_quotes] %>
 <% end %>
