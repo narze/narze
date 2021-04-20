@@ -1,7 +1,7 @@
 Active projects :
 
 - [Carpalx-th](https://github.com/narze/carpalx-th) 
-- [Awesome Salim Quotes](https://narze.github.io/awesome-salim-quotes) : 201 Quotes
+- [Awesome Salim Quotes](https://narze.github.io/awesome-salim-quotes) : 202 Quotes
 - [Digital Garden](https://monosor.com) : 40 Posts
 
 Past projects :
