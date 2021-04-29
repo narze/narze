@@ -2,7 +2,7 @@ Active projects :
 
 - [Carpalx-th](https://github.com/narze/carpalx-th) 
 - [Manoonchai Thai Keyboard Layout](https://github.com/narze/manoonchai) 
-- [Awesome Salim Quotes](https://narze.github.io/awesome-salim-quotes) : 207 Quotes
+- [Awesome Salim Quotes](https://narze.github.io/awesome-salim-quotes) : 208 Quotes
 - [Digital Garden](https://monosor.com) : 40 Posts
 
 Past projects :
