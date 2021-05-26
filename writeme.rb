@@ -18,8 +18,9 @@ asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.
 
 @active_projects = [
 
-  { name: "Carpalx-th", link: "https://github.com/narze/carpalx-th" },
-  { name: "Manoonchai Thai Keyboard Layout", link: "https://github.com/narze/manoonchai" },
+  { name: "Manoonchai Thai Keyboard Layout", link: "https://github.com/manoonchai/manoonchai" },
+  { name: "Manoontype : a Monkeytype fork for Manoonchai layout practice", link: "https://github.com/manoonchai/manoontype" },
+  { name: "Carpalx-th", link: "https://github.com/manoonchai/carpalx-th" },
   { name: "Awesome Salim Quotes", link: "https://narze.github.io/awesome-salim-quotes", duration: "#{asq_entries} Quotes" },
   {
     name: "Digital Garden",
