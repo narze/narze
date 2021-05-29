@@ -26,8 +26,8 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "writeme.bot@users.noreply.github.com"
-        git config --global user.name "WRITEME[bot]"
+        git config --global user.email "notbarze@users.noreply.github.com"
+        # git config --global user.name "WRITEME[bot]"
         git add -A
         git commit -m "Generate Readme" || exit 0
         git push
