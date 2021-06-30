@@ -17,10 +17,9 @@ asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-qu
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
 @active_projects = [
-
+  { name: "Resumette - Printer-friendly standard résumé", link: "https://github.com/narze/resume" }, 
   { name: "Manoonchai Thai Keyboard Layout", link: "https://github.com/manoonchai/manoonchai" },
-  { name: "Manoontype : a Monkeytype fork for Manoonchai layout practice", link: "https://github.com/manoonchai/manoontype" },
-  { name: "Carpalx-th", link: "https://github.com/manoonchai/carpalx-th" },
+  { name: "Thailand Grand Opening", link: "https://thailand-grand-opening.web.app" },
   { name: "Awesome Salim Quotes", link: "https://narze.github.io/awesome-salim-quotes", duration: "#{asq_entries} Quotes" },
   {
     name: "Digital Garden",
