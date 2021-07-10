@@ -1,9 +1,10 @@
 Active projects :
 
+- [ติด vs ตรวจ](https://tid-vs-truad.vercel.app) 
 - [Resumette - Printer-friendly standard résumé](https://github.com/narze/resume) 
 - [Manoonchai Thai Keyboard Layout](https://github.com/manoonchai/manoonchai) 
 - [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
-- [Awesome Salim Quotes](https://narze.github.io/awesome-salim-quotes) : 275 Quotes
+- [Awesome Salim Quotes](https://narze.github.io/awesome-salim-quotes) : 276 Quotes
 - [Digital Garden](https://monosor.com) : 40 Posts
 
 Past projects :
