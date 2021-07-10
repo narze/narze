@@ -17,6 +17,7 @@ asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-qu
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
 @active_projects = [
+  { name: "ติด vs ตรวจ", link: "https://tid-vs-truad.vercel.app" },
   { name: "Resumette - Printer-friendly standard résumé", link: "https://github.com/narze/resume" }, 
   { name: "Manoonchai Thai Keyboard Layout", link: "https://github.com/manoonchai/manoonchai" },
   { name: "Thailand Grand Opening", link: "https://thailand-grand-opening.web.app" },
