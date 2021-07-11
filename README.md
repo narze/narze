@@ -16,3 +16,5 @@ Past projects :
 Support Me :
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J04WA0F)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narze&layout=compact&langs_count=10&hide_border=true&custom_title=Languages)](https://github.com/narze)
