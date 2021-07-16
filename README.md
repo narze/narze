@@ -1,11 +1,13 @@
 Active projects :
 
+- [OlymPic](https://olym-pic.vercel.app) 
+- [Awesome Cheab Quotes](https://github.com/narze/awesome-cheab-quotes) 
 - [ติด vs ตรวจ](https://tid-vs-truad.vercel.app) 
 - [Coffee to Code](https://github.com/narze/coffee-to-code) 
 - [Resumette - Printer-friendly standard résumé](https://github.com/narze/resume) 
 - [Manoonchai Thai Keyboard Layout](https://github.com/manoonchai/manoonchai) 
 - [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
-- [Awesome Salim Quotes](https://narze.github.io/awesome-salim-quotes) : 339 Quotes
+- [Awesome Salim Quotes](https://watasalim.vercel.app) : 339 Quotes
 - [Digital Garden](https://monosor.com) : 40 Posts
 
 Past projects :
