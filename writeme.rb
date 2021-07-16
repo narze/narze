@@ -17,12 +17,14 @@ asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-qu
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
 @active_projects = [
+  { name: "OlymPic", link: "https://olym-pic.vercel.app" },
+  { name: "Awesome Cheab Quotes", link: "https://github.com/narze/awesome-cheab-quotes" },
   { name: "ติด vs ตรวจ", link: "https://tid-vs-truad.vercel.app" },
   { name: "Coffee to Code", link: "https://github.com/narze/coffee-to-code" },
   { name: "Resumette - Printer-friendly standard résumé", link: "https://github.com/narze/resume" }, 
   { name: "Manoonchai Thai Keyboard Layout", link: "https://github.com/manoonchai/manoonchai" },
   { name: "Thailand Grand Opening", link: "https://thailand-grand-opening.web.app" },
-  { name: "Awesome Salim Quotes", link: "https://narze.github.io/awesome-salim-quotes", duration: "#{asq_entries} Quotes" },
+  { name: "Awesome Salim Quotes", link: "https://watasalim.vercel.app", duration: "#{asq_entries} Quotes" },
   {
     name: "Digital Garden",
     link: "https://monosor.com",
