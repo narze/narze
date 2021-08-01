@@ -17,6 +17,7 @@ asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-qu
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
 @active_projects = [
+  { name: "Lumken (ลำเค็ญ)", link: "https://github.com/narze/lumken" },
   { name: "OlymPic", link: "https://olym-pic.vercel.app" },
   { name: "Awesome Cheab Quotes", link: "https://github.com/narze/awesome-cheab-quotes" },
   { name: "ติด vs ตรวจ", link: "https://tid-vs-truad.vercel.app" },
