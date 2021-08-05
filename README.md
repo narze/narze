@@ -1,5 +1,6 @@
 Active projects :
 
+- [Resound](https://github.com/narze/resound) 
 - [Lumken (ลำเค็ญ)](https://github.com/narze/lumken) 
 - [OlymPic](https://olym-pic.vercel.app) 
 - [Awesome Cheab Quotes](https://github.com/narze/awesome-cheab-quotes) 
