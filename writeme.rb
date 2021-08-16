@@ -16,7 +16,12 @@ digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
 asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-quotes/main/README.md")
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
+popyut_res = HTTParty.get("https://asia-southeast1-popyut.cloudfunctions.net/leaderboard")
+popyut_total = JSON.parse(popyut_res.body)["total"]
+
 @active_projects = [
+  { name: "POPYUT", link: "https://prayut.click", duration: "#{popyut_total} Pops" }
+  { name: "Deezcord", link: "https://github.com/narze/deezcord" },
   { name: "Resound", link: "https://github.com/narze/resound" },
   { name: "Lumken (ลำเค็ญ)", link: "https://github.com/narze/lumken" },
   { name: "OlymPic", link: "https://olym-pic.vercel.app" },
