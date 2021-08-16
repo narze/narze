@@ -20,7 +20,7 @@ popyut_res = HTTParty.get("https://asia-southeast1-popyut.cloudfunctions.net/lea
 popyut_total = JSON.parse(popyut_res.body)["total"]
 
 @active_projects = [
-  { name: "POPYUT", link: "https://prayut.click", duration: "#{popyut_total} Pops" }
+  { name: "POPYUT", link: "https://github.com/narze/popyut", duration: "#{popyut_total} Pops" },
   { name: "Deezcord", link: "https://github.com/narze/deezcord" },
   { name: "Resound", link: "https://github.com/narze/resound" },
   { name: "Lumken (ลำเค็ญ)", link: "https://github.com/narze/lumken" },
