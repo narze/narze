@@ -10,13 +10,13 @@ day = title.delete("^0-9")
 til_response = HTTParty.get("https://raw.githubusercontent.com/narze/til/master/README.md")
 til_entries = til_response.body.split("\n")[2].delete("^0-9")
 
-digital_garden_posts = HTTParty.get("https://monosor.com/api/info.json")
-digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
+# digital_garden_posts = HTTParty.get("https://monosor.com/api/info.json")
+# digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
 
 asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-quotes/main/README.md")
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
-popyut_res = HTTParty.get("https://asia-southeast1-popyut.cloudfunctions.net/leaderboard")
+popyut_res = HTTParty.get("https://api.prayut.click/leaderboard")
 popyut_total = JSON.parse(popyut_res.body)["total"]
 
 @active_projects = [
@@ -35,7 +35,7 @@ popyut_total = JSON.parse(popyut_res.body)["total"]
   {
     name: "Digital Garden",
     link: "https://monosor.com",
-    duration: "#{digital_garden_posts_count} Posts",
+#     duration: "#{digital_garden_posts_count} Posts",
   },
 ]
 
