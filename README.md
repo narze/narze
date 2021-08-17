@@ -1,6 +1,6 @@
 Active projects :
 
-- [POPYUT](https://github.com/narze/popyut) : 215,298,297 Pops
+- [POPYUT](https://github.com/narze/popyut) : 221,254,603 Pops
 - [Deezcord](https://github.com/narze/deezcord) 
 - [Resound](https://github.com/narze/resound) 
 - [Lumken (ลำเค็ญ)](https://github.com/narze/lumken) 
