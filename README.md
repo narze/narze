@@ -1,6 +1,6 @@
 Active projects :
 
-- [POPYUT](https://github.com/narze/popyut) : 49839128 Pops
+- [POPYUT](https://github.com/narze/popyut) : 153478229 Pops
 - [Deezcord](https://github.com/narze/deezcord) 
 - [Resound](https://github.com/narze/resound) 
 - [Lumken (ลำเค็ญ)](https://github.com/narze/lumken) 
@@ -12,12 +12,12 @@ Active projects :
 - [Manoonchai Thai Keyboard Layout](https://github.com/manoonchai/manoonchai) 
 - [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
 - [Awesome Salim Quotes](https://watasalim.vercel.app) : 391 Quotes
-- [Digital Garden](https://monosor.com) : 40 Posts
+- [Digital Garden](https://monosor.com) 
 
 Past projects :
 
 - [Today I Learned](https://github.com/narze/til) : 22 Entries
-- [#100DaysOfCode](https://github.com/narze/100daysofcode) : 100 Days! 🎉
+- [#100DaysOfCode](https://github.com/narze/100daysofcode) :  Days! 🎉
 
 
 Support Me :
