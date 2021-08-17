@@ -2,6 +2,10 @@ require "erb"
 require "httparty"
 require "nokogiri"
 
+def add_commas(num)
+  num.to_s.reverse.scan(/\d{3}-?|.+/).join(",").reverse
+end
+
 hdoc_response = HTTParty.get("https://100daysofcode.narze.vercel.app")
 page = Nokogiri::HTML(hdoc_response.body)
 title = page.xpath('//h2[contains(text(), "Latest : Day")]').text
@@ -20,7 +24,7 @@ popyut_res = HTTParty.get("https://api.prayut.click/leaderboard")
 popyut_total = JSON.parse(popyut_res.body)["total"]
 
 @active_projects = [
-  { name: "POPYUT", link: "https://github.com/narze/popyut", duration: "#{popyut_total} Pops" },
+  { name: "POPYUT", link: "https://github.com/narze/popyut", duration: "#{add_commas(popyut_total)} Pops" },
   { name: "Deezcord", link: "https://github.com/narze/deezcord" },
   { name: "Resound", link: "https://github.com/narze/resound" },
   { name: "Lumken (ลำเค็ญ)", link: "https://github.com/narze/lumken" },
@@ -31,7 +35,7 @@ popyut_total = JSON.parse(popyut_res.body)["total"]
   { name: "Resumette - Printer-friendly standard résumé", link: "https://github.com/narze/resume" }, 
   { name: "Manoonchai Thai Keyboard Layout", link: "https://github.com/manoonchai/manoonchai" },
   { name: "Thailand Grand Opening", link: "https://thailand-grand-opening.web.app" },
-  { name: "Awesome Salim Quotes", link: "https://watasalim.vercel.app", duration: "#{asq_entries} Quotes" },
+  { name: "Awesome Salim Quotes", link: "https://watasalim.vercel.app", duration: "#{add_commas(asq_entries)} Quotes" },
   {
     name: "Digital Garden",
     link: "https://monosor.com",
