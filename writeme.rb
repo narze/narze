@@ -20,11 +20,11 @@ til_entries = til_response.body.split("\n")[2].delete("^0-9")
 asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-quotes/main/README.md")
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
-popyut_res = HTTParty.get("https://api.prayut.click/leaderboard")
-popyut_total = JSON.parse(popyut_res.body)["total"]
+# popyut_res = HTTParty.get("https://api.prayut.click/leaderboard")
+# popyut_total = JSON.parse(popyut_res.body)["total"]
 
 @active_projects = [
-  { name: "POPYUT", link: "https://github.com/narze/popyut", duration: "#{add_commas(popyut_total)} Pops" },
+#   { name: "POPYUT", link: "https://github.com/narze/popyut", duration: "#{add_commas(popyut_total)} Pops" },
   { name: "Deezcord", link: "https://github.com/narze/deezcord" },
   { name: "Resound", link: "https://github.com/narze/resound" },
   { name: "Lumken (ลำเค็ญ)", link: "https://github.com/narze/lumken" },
