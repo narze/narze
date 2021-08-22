@@ -10,7 +10,7 @@ Active projects :
 - [Resumette - Printer-friendly standard résumé](https://github.com/narze/resume) 
 - [Manoonchai Thai Keyboard Layout](https://github.com/manoonchai/manoonchai) 
 - [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
-- [Awesome Salim Quotes](https://watasalim.vercel.app) : 391 Quotes
+- [Awesome Salim Quotes](https://watasalim.vercel.app) : 392 Quotes
 - [Digital Garden](https://monosor.com) 
 
 Past projects :
