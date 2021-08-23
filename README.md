@@ -1,5 +1,6 @@
 Active projects :
 
+- [Seri Answers](https://github.com/narze/seri-answers) 
 - [Deezcord](https://github.com/narze/deezcord) 
 - [Resound](https://github.com/narze/resound) 
 - [Lumken (ลำเค็ญ)](https://github.com/narze/lumken) 
@@ -11,7 +12,7 @@ Active projects :
 - [Manoonchai Thai Keyboard Layout](https://github.com/manoonchai/manoonchai) 
 - [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
 - [Awesome Salim Quotes](https://watasalim.vercel.app) : 392 Quotes
-- [Digital Garden](https://monosor.com) 
+- [Digital Garden](https://monosor.com) : 40 Posts
 
 Past projects :
 
