@@ -14,8 +14,8 @@ day = title.delete("^0-9")
 til_response = HTTParty.get("https://raw.githubusercontent.com/narze/til/master/README.md")
 til_entries = til_response.body.split("\n")[2].delete("^0-9")
 
-# digital_garden_posts = HTTParty.get("https://monosor.com/api/info.json")
-# digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
+digital_garden_posts = HTTParty.get("https://monosor.com/api/info.json")
+digital_garden_posts_count = JSON.parse(digital_garden_posts.body)["count"]
 
 asq_res = HTTParty.get("https://raw.githubusercontent.com/narze/awesome-salim-quotes/main/README.md")
 asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
@@ -25,6 +25,7 @@ asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.
 
 @active_projects = [
 #   { name: "POPYUT", link: "https://github.com/narze/popyut", duration: "#{add_commas(popyut_total)} Pops" },
+  { name: "Seri Answers", link: "https://github.com/narze/seri-answers" },
   { name: "Deezcord", link: "https://github.com/narze/deezcord" },
   { name: "Resound", link: "https://github.com/narze/resound" },
   { name: "Lumken (ลำเค็ญ)", link: "https://github.com/narze/lumken" },
@@ -39,7 +40,7 @@ asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.
   {
     name: "Digital Garden",
     link: "https://monosor.com",
-#     duration: "#{digital_garden_posts_count} Posts",
+    duration: "#{digital_garden_posts_count} Posts",
   },
 ]
 
