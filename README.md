@@ -1,5 +1,6 @@
 Active projects :
 
+- [Single Page Svelte](https://github.com/narze/single-page-svelte) 
 - [Seri Answers](https://github.com/narze/seri-answers) 
 - [Deezcord](https://github.com/narze/deezcord) 
 - [Resound](https://github.com/narze/resound) 
