@@ -25,6 +25,7 @@ asq_entries = asq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.
 
 @active_projects = [
 #   { name: "POPYUT", link: "https://github.com/narze/popyut", duration: "#{add_commas(popyut_total)} Pops" },
+  { name: "Single Page Svelte", link: "https://github.com/narze/single-page-svelte" },
   { name: "Seri Answers", link: "https://github.com/narze/seri-answers" },
   { name: "Deezcord", link: "https://github.com/narze/deezcord" },
   { name: "Resound", link: "https://github.com/narze/resound" },
