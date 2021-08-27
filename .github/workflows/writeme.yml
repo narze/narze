@@ -1,6 +1,8 @@
 name: Writeme
 
 on:
+  watch:
+    types: [started]
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
