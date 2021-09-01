@@ -1,9 +1,12 @@
 Active projects:
 
 
+- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
 - [profile-updater](https://github.com/narze/profile-updater)
 - [resound](https://github.com/narze/resound)
+- [resume](https://github.com/narze/resume)
 - [streamlarb](https://github.com/narze/streamlarb)
+- [THIS_REPO_HAS_992_STARS](https://github.com/narze/THIS_REPO_HAS_992_STARS)
 
 Past projects :
 
