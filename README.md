@@ -1,7 +1,11 @@
 Active projects:
 
 
-- [profile-updater](https://github.com/narze/profile-updater)Past projects :
+- [profile-updater](https://github.com/narze/profile-updater)
+- [resound](https://github.com/narze/resound)
+- [streamlarb](https://github.com/narze/streamlarb)
+
+Past projects :
 
 - [Today I Learned](https://github.com/narze/til) : 22 Entries
 - [#100DaysOfCode](https://github.com/narze/100daysofcode) : 100 Days! 🎉
