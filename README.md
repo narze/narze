@@ -7,7 +7,7 @@ Active projects:
 - [resound](https://github.com/narze/resound)
 - [resume](https://github.com/narze/resume)
 - [streamlarb](https://github.com/narze/streamlarb)
-- [THIS_REPO_HAS_3038_STARS](https://github.com/narze/THIS_REPO_HAS_3038_STARS)
+- [THIS_REPO_HAS_3041_STARS](https://github.com/narze/THIS_REPO_HAS_3041_STARS)
 
 Past projects :
 
