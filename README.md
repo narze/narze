@@ -1,18 +1,33 @@
-Active projects:
+Active projects :
 
-
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
-- [porsor](https://github.com/narze/porsor)
-- [profile-updater](https://github.com/narze/profile-updater)
-- [resound](https://github.com/narze/resound)
-- [resume](https://github.com/narze/resume)
-- [streamlarb](https://github.com/narze/streamlarb)
-- [THIS_REPO_HAS_3077_STARS](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
+- [THIS REPO HAS X STARS](https://github.com/narze/THIS_REPO_HAS_X_STARS) 
+- [Single Page Svelte](https://github.com/narze/single-page-svelte) 
+- [Seri Answers](https://github.com/narze/seri-answers) 
+- [Deezcord](https://github.com/narze/deezcord) 
+- [Resound](https://github.com/narze/resound) 
+- [Lumken (ลำเค็ญ)](https://github.com/narze/lumken) 
+- [OlymPic](https://olym-pic.vercel.app) 
+- [Awesome Cheab Quotes](https://github.com/narze/awesome-cheab-quotes) 
+- [ติด vs ตรวจ](https://tid-vs-truad.vercel.app) 
+- [Coffee to Code](https://github.com/narze/coffee-to-code) 
+- [Resumette - Printer-friendly standard résumé](https://github.com/narze/resume) 
+- [Manoonchai Thai Keyboard Layout](https://github.com/manoonchai/manoonchai) 
+- [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
+- [Awesome Salim Quotes](https://watasalim.vercel.app) : 454 Quotes
+- [Digital Garden](https://monosor.com) : 40 Posts
 
 Past projects :
 
 - [Today I Learned](https://github.com/narze/til) : 22 Entries
 - [#100DaysOfCode](https://github.com/narze/100daysofcode) : 100 Days! 🎉
+
+Hacktoberfest Projects :
+
+- [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
+- [ต่อเพลง](https://github.com/narze/torpleng) (61 เพลง)
+- [Thailand Hall of #save](https://github.com/narze/thailand-hall-of-save)
+- [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
+- [PokeMob](https://github.com/narze/PokeMob)
 
 Support Me :
 
