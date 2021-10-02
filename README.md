@@ -8,6 +8,7 @@
 - [dumb-questions-th](https://github.com/narze/dumb-questions-th)
 - [hacktoberfest_ez](https://github.com/narze/hacktoberfest_ez)
 - [porsor](https://github.com/narze/porsor)
+- [profile-updater](https://github.com/narze/profile-updater)
 - [skoy.js](https://github.com/narze/skoy.js)
 - [torpleng](https://github.com/narze/torpleng)
 - [toSkoy](https://github.com/narze/toSkoy)
