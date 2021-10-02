@@ -8,6 +8,7 @@ Hacktoberfest Projects :
 - [toSkoy](https://github.com/narze/toSkoy) & [skoy.js](https://github.com/narze/skoy.js)
 <!-- - [PokeMob](https://github.com/narze/PokeMob) -->
 
+<!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 Active projects :
 
 - [THIS REPO HAS X STARS](https://github.com/narze/THIS_REPO_HAS_X_STARS) 
@@ -25,6 +26,7 @@ Active projects :
 - [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
 - [Awesome Salim Quotes](https://watasalim.vercel.app) : 454 Quotes
 - [Digital Garden](https://monosor.com) : 40 Posts
+<!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
 Past projects :
 
