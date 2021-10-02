@@ -9,23 +9,28 @@ Hacktoberfest Projects :
 <!-- - [PokeMob](https://github.com/narze/PokeMob) -->
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-Active projects :
+## Hacktoberfest projects
 
-- [THIS REPO HAS X STARS](https://github.com/narze/THIS_REPO_HAS_X_STARS) 
-- [Single Page Svelte](https://github.com/narze/single-page-svelte) 
-- [Seri Answers](https://github.com/narze/seri-answers) 
-- [Deezcord](https://github.com/narze/deezcord) 
-- [Resound](https://github.com/narze/resound) 
-- [Lumken (ลำเค็ญ)](https://github.com/narze/lumken) 
-- [OlymPic](https://olym-pic.vercel.app) 
-- [Awesome Cheab Quotes](https://github.com/narze/awesome-cheab-quotes) 
-- [ติด vs ตรวจ](https://tid-vs-truad.vercel.app) 
-- [Coffee to Code](https://github.com/narze/coffee-to-code) 
-- [Resumette - Printer-friendly standard résumé](https://github.com/narze/resume) 
-- [Manoonchai Thai Keyboard Layout](https://github.com/manoonchai/manoonchai) 
-- [Thailand Grand Opening](https://thailand-grand-opening.web.app) 
-- [Awesome Salim Quotes](https://watasalim.vercel.app) : 454 Quotes
-- [Digital Garden](https://monosor.com) : 40 Posts
+- [awesome-cheab-quotes](https://github.com/narze/awesome-cheab-quotes)
+- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
+- [coffee-to-code](https://github.com/narze/coffee-to-code)
+- [DaiMai](https://github.com/narze/DaiMai)
+- [dumb-questions-th](https://github.com/narze/dumb-questions-th)
+- [hacktoberfest_ez](https://github.com/narze/hacktoberfest_ez)
+- [porsor](https://github.com/narze/porsor)
+- [skoy.js](https://github.com/narze/skoy.js)
+- [torpleng](https://github.com/narze/torpleng)
+- [toSkoy](https://github.com/narze/toSkoy)
+
+## Active projects
+
+- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
+- [profile-updater](https://github.com/narze/profile-updater)
+- [resound](https://github.com/narze/resound)
+- [resume](https://github.com/narze/resume)
+- [streamlarb](https://github.com/narze/streamlarb)
+- [THIS_REPO_HAS_3077_STARS](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
+
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
 Past projects :
