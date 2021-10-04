@@ -1,16 +1,16 @@
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 ## Hacktoberfest projects
 
-- [awesome-cheab-quotes](https://github.com/narze/awesome-cheab-quotes)
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
-- [coffee-to-code](https://github.com/narze/coffee-to-code)
-- [DaiMai](https://github.com/narze/DaiMai)
-- [dumb-questions-th](https://github.com/narze/dumb-questions-th)
+- [awesome-cheab-quotes](https://github.com/narze/awesome-cheab-quotes) (1 Pull Requests)
+- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (2 Pull Requests)
+- [coffee-to-code](https://github.com/narze/coffee-to-code) (11 Pull Requests)
+- [DaiMai](https://github.com/narze/DaiMai) (4 Pull Requests)
+- [dumb-questions-th](https://github.com/narze/dumb-questions-th) (1 Pull Requests)
 - [hacktoberfest_ez](https://github.com/narze/hacktoberfest_ez)
-- [porsor](https://github.com/narze/porsor)
+- [porsor](https://github.com/narze/porsor) (2 Pull Requests)
 - [profile-updater](https://github.com/narze/profile-updater)
-- [skoy.js](https://github.com/narze/skoy.js)
-- [torpleng](https://github.com/narze/torpleng)
+- [skoy.js](https://github.com/narze/skoy.js) (7 Pull Requests)
+- [torpleng](https://github.com/narze/torpleng) (3 Pull Requests)
 - [toSkoy](https://github.com/narze/toSkoy)
 
 ## Active projects
