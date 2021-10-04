@@ -2,9 +2,9 @@
 ## Hacktoberfest projects
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Pull Requests](https://github.com/narze/awesome-cheab-quotes/pulls))
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([2 Pull Requests](https://github.com/narze/awesome-salim-quotes/pulls))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([11 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes)
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([1 Pull Requests](https://github.com/narze/awesome-salim-quotes/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([9 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([4 Pull Requests](https://github.com/narze/DaiMai/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 Pull Requests](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
