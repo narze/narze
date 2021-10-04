@@ -1,26 +1,26 @@
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 ## Hacktoberfest projects
 
-- [awesome-cheab-quotes](https://github.com/narze/awesome-cheab-quotes) (1 Pull Requests)
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes) (2 Pull Requests)
-- [coffee-to-code](https://github.com/narze/coffee-to-code) (11 Pull Requests)
-- [DaiMai](https://github.com/narze/DaiMai) (4 Pull Requests)
-- [dumb-questions-th](https://github.com/narze/dumb-questions-th) (1 Pull Requests)
-- [hacktoberfest_ez](https://github.com/narze/hacktoberfest_ez)
-- [porsor](https://github.com/narze/porsor) (2 Pull Requests)
-- [profile-updater](https://github.com/narze/profile-updater)
-- [skoy.js](https://github.com/narze/skoy.js) (7 Pull Requests)
-- [torpleng](https://github.com/narze/torpleng) (3 Pull Requests)
-- [toSkoy](https://github.com/narze/toSkoy)
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Pull Requests](https://github.com/narze/awesome-cheab-quotes/pulls))
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([2 Pull Requests](https://github.com/narze/awesome-salim-quotes/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([11 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai) ([4 Pull Requests](https://github.com/narze/DaiMai/pulls))
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 Pull Requests](https://github.com/narze/dumb-questions-th/pulls))
+- [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
+- [พส.](https://github.com/narze/porsor) ([2 Pull Requests](https://github.com/narze/porsor/pulls))
+- [Profile Updater](https://github.com/narze/profile-updater)
+- [Skoy.js](https://github.com/narze/skoy.js) ([7 Pull Requests](https://github.com/narze/skoy.js/pulls))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([3 Pull Requests](https://github.com/narze/torpleng/pulls))
+- [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy)
 
 ## Active projects
 
-- [awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
-- [profile-updater](https://github.com/narze/profile-updater)
-- [resound](https://github.com/narze/resound)
-- [resume](https://github.com/narze/resume)
-- [streamlarb](https://github.com/narze/streamlarb)
-- [THIS_REPO_HAS_3077_STARS](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
+- [Profile Updater](https://github.com/narze/profile-updater)
+- [Resound](https://github.com/narze/resound)
+- [Resume](https://github.com/narze/resume)
+- [Streamlarb](https://github.com/narze/streamlarb)
+- [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
