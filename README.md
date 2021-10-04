@@ -13,6 +13,14 @@
 - [Skoy.js](https://github.com/narze/skoy.js) ([7 Pull Requests](https://github.com/narze/skoy.js/pulls))
 - [ต่อเพลง](https://github.com/narze/torpleng) ([3 Pull Requests](https://github.com/narze/torpleng/pulls))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy)
+- [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
+- [Heatmap](https://github.com/Manoonchai/heatmap)
+- [Kiimo](https://github.com/Manoonchai/kiimo) ([1 Pull Requests](https://github.com/Manoonchai/kiimo/pulls))
+- [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
+- [Manoonchai](https://github.com/Manoonchai/Manoonchai)
+- [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 Pull Requests](https://github.com/Manoonchai/manoonchai.com/pulls))
+- [Manoontype](https://github.com/Manoonchai/manoontype)
+- [Triads_extractor](https://github.com/Manoonchai/triads_extractor)
 
 ## Active projects
 
@@ -22,6 +30,7 @@
 - [Resume](https://github.com/narze/resume)
 - [Streamlarb](https://github.com/narze/streamlarb)
 - [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
+- [Manoonchai](https://github.com/Manoonchai/Manoonchai)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
