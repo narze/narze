@@ -13,7 +13,7 @@
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Single-page-svelte](https://github.com/narze/single-page-svelte)
 - [Skoy.js](https://github.com/narze/skoy.js) ([1 Pull Requests](https://github.com/narze/skoy.js/pulls))
-- [ต่อเพลง](https://github.com/narze/torpleng) ([5 Pull Requests](https://github.com/narze/torpleng/pulls))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([3 Pull Requests](https://github.com/narze/torpleng/pulls))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy)
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
 - [Heatmap](https://github.com/Manoonchai/heatmap)
