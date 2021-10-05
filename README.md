@@ -11,6 +11,7 @@
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
 - [พส.](https://github.com/narze/porsor) ([1 Pull Requests](https://github.com/narze/porsor/pulls))
 - [Profile Updater](https://github.com/narze/profile-updater)
+- [Single-page-svelte](https://github.com/narze/single-page-svelte)
 - [Skoy.js](https://github.com/narze/skoy.js) ([1 Pull Requests](https://github.com/narze/skoy.js/pulls))
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 Pull Requests](https://github.com/narze/torpleng/pulls))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy)
