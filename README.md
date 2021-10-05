@@ -7,7 +7,7 @@
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([2 Pull Requests](https://github.com/narze/awesome-salim-quotes/pulls))
 - [Coffee to Code](https://github.com/narze/coffee-to-code) ([6 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([1 Pull Requests](https://github.com/narze/DaiMai/pulls))
-- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 Pull Requests](https://github.com/narze/dumb-questions-th/pulls))
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([4 Pull Requests](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
 - [พส.](https://github.com/narze/porsor) ([4 Pull Requests](https://github.com/narze/porsor/pulls))
 - [Profile Updater](https://github.com/narze/profile-updater)
