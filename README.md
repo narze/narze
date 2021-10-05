@@ -3,10 +3,10 @@
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech)
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([2 PRs](https://github.com/narze/awesome-cheab-quotes/pulls))
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([3 PRs](https://github.com/narze/awesome-cheab-quotes/pulls))
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([2 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
 - [Coffee to Code](https://github.com/narze/coffee-to-code) ([6 PRs](https://github.com/narze/coffee-to-code/pulls))
-- [ได้ไหม?](https://github.com/narze/DaiMai) ([1 PRs](https://github.com/narze/DaiMai/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai) ([2 PRs](https://github.com/narze/DaiMai/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([4 PRs](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [พส.](https://github.com/narze/porsor) ([4 PRs](https://github.com/narze/porsor/pulls) / [1 Issues](https://github.com/narze/porsor/issues))
