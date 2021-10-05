@@ -5,7 +5,7 @@
 - [9speech](https://github.com/narze/9speech)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([2 Pull Requests](https://github.com/narze/awesome-cheab-quotes/pulls))
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([2 Pull Requests](https://github.com/narze/awesome-salim-quotes/pulls))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([5 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([6 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([1 Pull Requests](https://github.com/narze/DaiMai/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([3 Pull Requests](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
