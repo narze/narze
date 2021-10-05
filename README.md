@@ -9,7 +9,7 @@
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([3 PRs](https://github.com/narze/DaiMai/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([4 PRs](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
-- [พส.](https://github.com/narze/porsor) ([4 PRs](https://github.com/narze/porsor/pulls) / [1 Issues](https://github.com/narze/porsor/issues))
+- [พส.](https://github.com/narze/porsor) ([5 PRs](https://github.com/narze/porsor/pulls) / [1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater) ([1 Issues](https://github.com/narze/profile-updater/issues))
 - [Single-page-svelte](https://github.com/narze/single-page-svelte)
 - [Skoy.js](https://github.com/narze/skoy.js) ([1 PRs](https://github.com/narze/skoy.js/pulls))
