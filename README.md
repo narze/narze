@@ -2,10 +2,11 @@
 ## Hacktoberfest projects
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
+- [9speech](https://github.com/narze/9speech)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([1 Pull Requests](https://github.com/narze/awesome-salim-quotes/pulls))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([3 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
-- [ได้ไหม?](https://github.com/narze/DaiMai) ([2 Pull Requests](https://github.com/narze/DaiMai/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 Pull Requests](https://github.com/narze/coffee-to-code/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai) ([1 Pull Requests](https://github.com/narze/DaiMai/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 Pull Requests](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez)
 - [พส.](https://github.com/narze/porsor) ([1 Pull Requests](https://github.com/narze/porsor/pulls))
@@ -18,7 +19,7 @@
 - [Kiimo](https://github.com/Manoonchai/kiimo) ([1 Pull Requests](https://github.com/Manoonchai/kiimo/pulls))
 - [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai)
-- [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 Pull Requests](https://github.com/Manoonchai/manoonchai.com/pulls))
+- [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com)
 - [Manoontype](https://github.com/Manoonchai/manoontype)
 - [Triads_extractor](https://github.com/Manoonchai/triads_extractor)
 
