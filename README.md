@@ -1,4 +1,4 @@
-This profile page is automatically updated every hour with https://github.com/narze/profile-updater
+This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 ## Hacktoberfest projects
