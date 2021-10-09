@@ -9,7 +9,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers) ([1 PRs](https://github.com/narze/awesome-websites-as-answers/pulls))
 - [Coffee to Code](https://github.com/narze/coffee-to-code) ([2 PRs](https://github.com/narze/coffee-to-code/pulls))
-- [ได้ไหม?](https://github.com/narze/DaiMai) ([1 PRs](https://github.com/narze/DaiMai/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai) ([2 PRs](https://github.com/narze/DaiMai/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [พส.](https://github.com/narze/porsor) ([2 PRs](https://github.com/narze/porsor/pulls) / [1 Issues](https://github.com/narze/porsor/issues))
