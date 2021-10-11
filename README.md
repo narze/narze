@@ -9,7 +9,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([2 PRs](https://github.com/narze/DaiMai/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
@@ -28,7 +28,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Kiimo](https://github.com/Manoonchai/kiimo) ([1 PRs](https://github.com/Manoonchai/kiimo/pulls))
 - [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([3 Issues](https://github.com/Manoonchai/Manoonchai/issues))
-- [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 PRs](https://github.com/Manoonchai/manoonchai.com/pulls) / [1 Issues](https://github.com/Manoonchai/manoonchai.com/issues))
+- [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 Issues](https://github.com/Manoonchai/manoonchai.com/issues))
 - [Manoontype](https://github.com/Manoonchai/manoontype)
 - [Triads_extractor](https://github.com/Manoonchai/triads_extractor)
 
