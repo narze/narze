@@ -11,7 +11,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Baht.js](https://github.com/narze/baht.js) ([2 PRs](https://github.com/narze/baht.js/pulls) / [3 Issues](https://github.com/narze/baht.js/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
-- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 PRs](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [พส.](https://github.com/narze/porsor) ([1 PRs](https://github.com/narze/porsor/pulls) / [1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater) ([1 Issues](https://github.com/narze/profile-updater/issues))
