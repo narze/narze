@@ -6,7 +6,7 @@ This profile page is automatically updated every hour with https://github.com/na
 
 - [9speech](https://github.com/narze/9speech)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([1 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers) ([1 PRs](https://github.com/narze/awesome-websites-as-answers/pulls))
 - [Baht.js](https://github.com/narze/baht.js) ([1 PRs](https://github.com/narze/baht.js/pulls) / [3 Issues](https://github.com/narze/baht.js/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
@@ -24,7 +24,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
-- [Heatmap](https://github.com/Manoonchai/heatmap)
+- [Heatmap](https://github.com/Manoonchai/heatmap) ([1 PRs](https://github.com/Manoonchai/heatmap/pulls))
 - [Kiimo](https://github.com/Manoonchai/kiimo) ([1 PRs](https://github.com/Manoonchai/kiimo/pulls))
 - [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
 - [Learn](https://github.com/Manoonchai/learn)
