@@ -13,7 +13,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
-- [พส.](https://github.com/narze/porsor) ([1 PRs](https://github.com/narze/porsor/pulls) / [1 Issues](https://github.com/narze/porsor/issues))
+- [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater) ([1 Issues](https://github.com/narze/profile-updater/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
