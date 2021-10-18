@@ -4,7 +4,7 @@ This profile page is automatically updated every hour with https://github.com/na
 ## Hacktoberfest projects
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-- [9speech](https://github.com/narze/9speech)
+- [9speech](https://github.com/narze/9speech) ([1 PRs](https://github.com/narze/9speech/pulls))
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
