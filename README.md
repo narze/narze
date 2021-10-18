@@ -4,7 +4,7 @@ This profile page is automatically updated every hour with https://github.com/na
 ## Hacktoberfest projects
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-- [9speech](https://github.com/narze/9speech) ([1 PRs](https://github.com/narze/9speech/pulls))
+- [9speech](https://github.com/narze/9speech)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
@@ -28,7 +28,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Kiimo](https://github.com/Manoonchai/kiimo) ([1 PRs](https://github.com/Manoonchai/kiimo/pulls))
 - [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
 - [Learn](https://github.com/Manoonchai/learn)
-- [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([1 PRs](https://github.com/Manoonchai/Manoonchai/pulls) / [4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
+- [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
 - [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 Issues](https://github.com/Manoonchai/manoonchai.com/issues))
 - [Manoontype](https://github.com/Manoonchai/manoontype)
 - [Triads_extractor](https://github.com/Manoonchai/triads_extractor)
