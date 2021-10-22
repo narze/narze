@@ -4,9 +4,9 @@ This profile page is automatically updated every hour with https://github.com/na
 
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes)
 - [ต่อเพลง](https://github.com/narze/torpleng)
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 ## Hacktoberfest projects
