@@ -28,7 +28,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [M1-max-excuses](https://github.com/narze/M1-Max-excuses)
 - [นั่นมัน...!](https://github.com/narze/nunmun)
-- [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
+- [พส.](https://github.com/narze/porsor) ([1 PRs](https://github.com/narze/porsor/pulls) / [1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume) ([1 Issues](https://github.com/narze/resume/issues))
