@@ -10,7 +10,8 @@ This profile page is automatically updated every hour with https://github.com/na
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects
+## Hacktoberfest projects (303 PRs merged!)
+
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech)
