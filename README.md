@@ -10,7 +10,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (318 PRs merged!)
+## Hacktoberfest projects (319 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -20,19 +20,19 @@ This profile page is automatically updated every hour with https://github.com/na
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 PRs](https://github.com/narze/baht.js/pulls) / [1 Issues](https://github.com/narze/baht.js/issues))
-- [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now) ([1 Issues](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now/issues))
-- [Coffee to Code](https://github.com/narze/coffee-to-code)
+- [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now) ([1 PRs](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now/pulls) / [1 Issues](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now/issues))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 PRs](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([1 PRs](https://github.com/narze/DaiMai/pulls))
 - [Dotfiles](https://github.com/narze/dotfiles)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [M1-max-excuses](https://github.com/narze/M1-Max-excuses)
-- [นั่นมัน...!](https://github.com/narze/nunmun)
+- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls))
 - [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume) ([1 Issues](https://github.com/narze/resume/issues))
-- [Single-page-svelte](https://github.com/narze/single-page-svelte) ([1 PRs](https://github.com/narze/single-page-svelte/pulls) / [1 Issues](https://github.com/narze/single-page-svelte/issues))
+- [Single-page-svelte](https://github.com/narze/single-page-svelte)
 - [Skoy.js](https://github.com/narze/skoy.js)
 - [Streamlarb](https://github.com/narze/streamlarb)
 - [Thailand-grand-opening](https://github.com/narze/thailand-grand-opening)
