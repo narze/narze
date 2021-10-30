@@ -1,7 +1,7 @@
 This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (335 PRs merged!)
+## Hacktoberfest projects (336 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -15,11 +15,11 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Dotfiles](https://github.com/narze/dotfiles)
-- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 PRs](https://github.com/narze/dumb-questions-th/pulls))
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [M1-max-excuses](https://github.com/narze/M1-Max-excuses)
 - [นั่นมัน...!](https://github.com/narze/nunmun)
-- [Poppoll](https://github.com/narze/poppoll) ([2 Issues](https://github.com/narze/poppoll/issues))
+- [Poppoll](https://github.com/narze/poppoll) ([3 Issues](https://github.com/narze/poppoll/issues))
 - [Poppoll-worker](https://github.com/narze/poppoll-worker) ([4 Issues](https://github.com/narze/poppoll-worker/issues))
 - [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater)
