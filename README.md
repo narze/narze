@@ -10,7 +10,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (310 PRs merged!)
+## Hacktoberfest projects (312 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -20,7 +20,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 PRs](https://github.com/narze/baht.js/pulls) / [1 Issues](https://github.com/narze/baht.js/issues))
-- [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now) ([1 Issues](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now/issues))
+- [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now) ([1 PRs](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now/pulls) / [1 Issues](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Dotfiles](https://github.com/narze/dotfiles)
@@ -36,7 +36,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Skoy.js](https://github.com/narze/skoy.js)
 - [Streamlarb](https://github.com/narze/streamlarb)
 - [Thailand-grand-opening](https://github.com/narze/thailand-grand-opening)
-- [ต่อเพลง](https://github.com/narze/torpleng) ([2 PRs](https://github.com/narze/torpleng/pulls) / [1 Issues](https://github.com/narze/torpleng/issues))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([1 PRs](https://github.com/narze/torpleng/pulls) / [1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
 - [Heatmap](https://github.com/Manoonchai/heatmap)
