@@ -1,14 +1,5 @@
 This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
 
-## Recommended Hacktoberfest projects for Git/GitHub beginners (Mostly Thai language specific)
-
-- [Coffee to Code](https://github.com/narze/coffee-to-code)
-- [ได้ไหม?](https://github.com/narze/DaiMai)
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes)
-- [ต่อเพลง](https://github.com/narze/torpleng)
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
-- [นั่นมัน...!](https://github.com/narze/nunmun)
-
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 ## Hacktoberfest projects (330 PRs merged!)
 
