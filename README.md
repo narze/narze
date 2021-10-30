@@ -10,7 +10,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (325 PRs merged!)
+## Hacktoberfest projects (330 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -22,12 +22,12 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Baht.js](https://github.com/narze/baht.js) ([1 PRs](https://github.com/narze/baht.js/pulls) / [1 Issues](https://github.com/narze/baht.js/issues))
 - [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now) ([1 Issues](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
-- [ได้ไหม?](https://github.com/narze/DaiMai) ([1 PRs](https://github.com/narze/DaiMai/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Dotfiles](https://github.com/narze/dotfiles)
-- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([3 PRs](https://github.com/narze/dumb-questions-th/pulls))
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [M1-max-excuses](https://github.com/narze/M1-Max-excuses)
-- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls))
+- [นั่นมัน...!](https://github.com/narze/nunmun)
 - [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
