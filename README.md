@@ -19,7 +19,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [M1-max-excuses](https://github.com/narze/M1-Max-excuses)
 - [นั่นมัน...!](https://github.com/narze/nunmun)
-- [Poppoll](https://github.com/narze/poppoll) ([3 Issues](https://github.com/narze/poppoll/issues))
+- [Poppoll](https://github.com/narze/poppoll) ([4 Issues](https://github.com/narze/poppoll/issues))
 - [Poppoll-worker](https://github.com/narze/poppoll-worker) ([1 PRs](https://github.com/narze/poppoll-worker/pulls) / [4 Issues](https://github.com/narze/poppoll-worker/issues))
 - [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater)
