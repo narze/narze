@@ -6,7 +6,7 @@ This profile page is automatically updated every hour with https://github.com/na
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech)
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
@@ -20,7 +20,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [M1-max-excuses](https://github.com/narze/M1-Max-excuses)
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 - [Poppoll](https://github.com/narze/poppoll) ([3 Issues](https://github.com/narze/poppoll/issues))
-- [Poppoll-worker](https://github.com/narze/poppoll-worker) ([1 PRs](https://github.com/narze/poppoll-worker/pulls) / [4 Issues](https://github.com/narze/poppoll-worker/issues))
+- [Poppoll-worker](https://github.com/narze/poppoll-worker) ([4 Issues](https://github.com/narze/poppoll-worker/issues))
 - [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
