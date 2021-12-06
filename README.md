@@ -1,6 +1,8 @@
 This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
+<details><summary>Hacktoberfest 2021</summary>
+
 ## Hacktoberfest projects (356 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
@@ -39,6 +41,8 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com)
 - [Manoontype](https://github.com/Manoonchai/manoontype)
 - [Triads_extractor](https://github.com/Manoonchai/triads_extractor)
+
+</details>
 
 ## Active projects
 
