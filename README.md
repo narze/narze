@@ -47,6 +47,7 @@ This profile page is automatically updated every hour with https://github.com/na
 ## Active projects
 
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
+- [Gash](https://github.com/narze/gash)
 - [Monosor.com](https://github.com/narze/monosor.com)
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
