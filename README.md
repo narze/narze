@@ -25,7 +25,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [พส.](https://github.com/narze/porsor) ([1 Issues](https://github.com/narze/porsor/issues))
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
-- [Resume](https://github.com/narze/resume) ([1 Issues](https://github.com/narze/resume/issues))
+- [Resume](https://github.com/narze/resume)
 - [Single-page-svelte](https://github.com/narze/single-page-svelte)
 - [Skoy.js](https://github.com/narze/skoy.js)
 - [Streamlarb](https://github.com/narze/streamlarb) ([1 Issues](https://github.com/narze/streamlarb/issues))
