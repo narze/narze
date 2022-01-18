@@ -54,6 +54,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Resume](https://github.com/narze/resume)
 - [Streamlarb](https://github.com/narze/streamlarb)
 - [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
+- [Thwordle](https://github.com/narze/thwordle)
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
