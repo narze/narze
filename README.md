@@ -12,7 +12,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
-- [Baht.js](https://github.com/narze/baht.js) ([1 PRs](https://github.com/narze/baht.js/pulls) / [2 Issues](https://github.com/narze/baht.js/issues))
+- [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now)
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
