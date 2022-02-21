@@ -46,6 +46,7 @@ This profile page is automatically updated every hour with https://github.com/na
 
 ## Active projects
 
+- [.live](https://github.com/narze/.live)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Garden](https://github.com/narze/garden)
 - [Gash](https://github.com/narze/gash)
