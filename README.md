@@ -62,10 +62,11 @@
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
-## Support Me
+<!-- ## Support Me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/narze)
-
+-->
+ 
 ## Stats
 
 [![wakatime](https://wakatime.com/badge/user/ee28b529-c920-4c92-a7c7-6a26fdff3ca5.svg)](https://wakatime.com/@ee28b529-c920-4c92-a7c7-6a26fdff3ca5)
