@@ -1,5 +1,3 @@
-This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
-
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 <details><summary><strong>Hacktoberfest 2021</strong></summary>
 
@@ -73,3 +71,5 @@ This profile page is automatically updated every hour with https://github.com/na
 [![wakatime](https://wakatime.com/badge/user/ee28b529-c920-4c92-a7c7-6a26fdff3ca5.svg)](https://wakatime.com/@ee28b529-c920-4c92-a7c7-6a26fdff3ca5)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narze&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/narze)
+
+This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
