@@ -63,12 +63,6 @@ This profile page is automatically updated every hour with https://github.com/na
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
-<details><summary><strong>Active projects</strong></summary>
-
-- [Today I Learned](https://github.com/narze/til) : 22 Entries
-- [#100DaysOfCode](https://github.com/narze/100daysofcode) : 100 Days! 🎉
-</details>
-
 ## Support Me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/narze)
