@@ -44,7 +44,7 @@ This profile page is automatically updated every hour with https://github.com/na
 
 </details>
 
-## Active projects
+<details><summary><strong>Active projects</strong></summary>
 
 - [.live](https://github.com/narze/.live)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
@@ -59,13 +59,15 @@ This profile page is automatically updated every hour with https://github.com/na
 - [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
 - [Thwordle](https://github.com/narze/thwordle)
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai)
+</details>
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
-## Past projects
+<details><summary><strong>Active projects</strong></summary>
 
 - [Today I Learned](https://github.com/narze/til) : 22 Entries
 - [#100DaysOfCode](https://github.com/narze/100daysofcode) : 100 Days! 🎉
+</details>
 
 ## Support Me
 
