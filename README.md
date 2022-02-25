@@ -67,7 +67,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/narze)
 -->
 
-<details><summary><strong>Active projects</strong></summary>
+<details><summary><strong>Stats</strong></summary>
 
 ## Stats
 
