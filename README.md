@@ -1,3 +1,23 @@
+# 👋
+
+<details><summary><strong>Active projects</strong></summary>
+
+- [.live](https://github.com/narze/.live)
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
+- [Garden](https://github.com/narze/garden)
+- [Gash](https://github.com/narze/gash)
+- [Mermage](https://github.com/narze/mermage)
+- [Profile Updater](https://github.com/narze/profile-updater)
+- [Resound](https://github.com/narze/resound)
+- [Resume](https://github.com/narze/resume)
+- [Streamlarb](https://github.com/narze/streamlarb)
+- [That-paper-game](https://github.com/narze/that-paper-game)
+- [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
+- [Thwordle](https://github.com/narze/thwordle)
+- [Manoonchai](https://github.com/Manoonchai/Manoonchai)
+
+</details>
+
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 <details><summary><strong>Hacktoberfest 2021</strong></summary>
 
@@ -42,24 +62,6 @@
 
 </details>
 
-<details><summary><strong>Active projects</strong></summary>
-
-- [.live](https://github.com/narze/.live)
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
-- [Garden](https://github.com/narze/garden)
-- [Gash](https://github.com/narze/gash)
-- [Mermage](https://github.com/narze/mermage)
-- [Profile Updater](https://github.com/narze/profile-updater)
-- [Resound](https://github.com/narze/resound)
-- [Resume](https://github.com/narze/resume)
-- [Streamlarb](https://github.com/narze/streamlarb)
-- [That-paper-game](https://github.com/narze/that-paper-game)
-- [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
-- [Thwordle](https://github.com/narze/thwordle)
-- [Manoonchai](https://github.com/Manoonchai/Manoonchai)
-
-</details>
-
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
 <!-- ## Support Me
@@ -76,4 +78,4 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narze&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/narze)
 </details>
 
-This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
+This section is automatically updated with https://github.com/narze/profile-updater
