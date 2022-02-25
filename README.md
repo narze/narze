@@ -1,7 +1,7 @@
 This profile page is automatically updated every hour with https://github.com/narze/profile-updater ✨
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-<details><summary>Hacktoberfest 2021</summary>
+<details><summary><strong>Hacktoberfest 2021</strong></summary>
 
 ## Hacktoberfest projects (356 PRs merged!)
 
@@ -59,6 +59,7 @@ This profile page is automatically updated every hour with https://github.com/na
 - [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
 - [Thwordle](https://github.com/narze/thwordle)
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai)
+
 </details>
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
