@@ -78,4 +78,4 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narze&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/narze)
 </details>
 
-This section is automatically updated with https://github.com/narze/profile-updater
+This section is automatically updated with [narze/profile-updater](https://github.com/narze/profile-updater)
