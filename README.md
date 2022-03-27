@@ -50,6 +50,7 @@
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Garden](https://github.com/narze/garden)
 - [Gash](https://github.com/narze/gash)
+- [Home-cluster](https://github.com/narze/home-cluster)
 - [Mermage](https://github.com/narze/mermage)
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
