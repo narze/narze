@@ -30,7 +30,7 @@
 - [Skoy.js](https://github.com/narze/skoy.js) ([1 PRs](https://github.com/narze/skoy.js/pulls))
 - [Streamlarb](https://github.com/narze/streamlarb) ([1 Issues](https://github.com/narze/streamlarb/issues))
 - [Thailand-grand-opening](https://github.com/narze/thailand-grand-opening)
-- [ต่อเพลง](https://github.com/narze/torpleng)
+- [ต่อเพลง](https://github.com/narze/torpleng) ([1 PRs](https://github.com/narze/torpleng/pulls))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
 - [Heatmap](https://github.com/Manoonchai/heatmap)
