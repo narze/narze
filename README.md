@@ -3,7 +3,7 @@
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 <details><summary><strong>Hacktoberfest 2021</strong></summary>
 
-## Hacktoberfest projects (300 PRs merged!)
+## Hacktoberfest projects (356 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
