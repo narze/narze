@@ -55,6 +55,7 @@
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
+- [Streamie](https://github.com/narze/streamie)
 - [Streamlarb](https://github.com/narze/streamlarb)
 - [That-paper-game](https://github.com/narze/that-paper-game)
 - [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
