@@ -36,7 +36,7 @@
 - [Heatmap](https://github.com/Manoonchai/heatmap)
 - [Kiimo](https://github.com/Manoonchai/kiimo)
 - [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
-- [Learn](https://github.com/Manoonchai/learn) ([1 PRs](https://github.com/Manoonchai/learn/pulls) / [1 Issues](https://github.com/Manoonchai/learn/issues))
+- [Learn](https://github.com/Manoonchai/learn) ([2 PRs](https://github.com/Manoonchai/learn/pulls) / [1 Issues](https://github.com/Manoonchai/learn/issues))
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
 - [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com)
 - [Manoontype](https://github.com/Manoonchai/manoontype)
