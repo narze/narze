@@ -52,6 +52,7 @@
 - [Gash](https://github.com/narze/gash)
 - [Home-cluster](https://github.com/narze/home-cluster)
 - [Mermage](https://github.com/narze/mermage)
+- [Ophtusify](https://github.com/narze/ophtusify)
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
