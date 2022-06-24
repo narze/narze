@@ -27,7 +27,7 @@
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
 - [Single-page-svelte](https://github.com/narze/single-page-svelte) ([1 Issues](https://github.com/narze/single-page-svelte/issues))
-- [Skoy.js](https://github.com/narze/skoy.js) ([1 PRs](https://github.com/narze/skoy.js/pulls))
+- [Skoy.js](https://github.com/narze/skoy.js) ([2 PRs](https://github.com/narze/skoy.js/pulls))
 - [Streamlarb](https://github.com/narze/streamlarb) ([1 Issues](https://github.com/narze/streamlarb/issues))
 - [Thailand-grand-opening](https://github.com/narze/thailand-grand-opening)
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 PRs](https://github.com/narze/torpleng/pulls))
