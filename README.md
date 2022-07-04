@@ -1,4 +1,4 @@
-# 👋 Hello I'm nඞrze
+# 👋 Hello I'm narze
 
 Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 
