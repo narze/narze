@@ -1,5 +1,7 @@
 # 👋 Hello I'm nඞrze
 
+Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
+
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 <details><summary><strong>Hacktoberfest 2021</strong></summary>
 
