@@ -50,6 +50,7 @@ Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 
 - [.live](https://github.com/narze/.live)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
+- [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [Garden](https://github.com/narze/garden)
 - [Gash](https://github.com/narze/gash)
 - [Home-cluster](https://github.com/narze/home-cluster)
