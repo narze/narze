@@ -3,7 +3,7 @@
 Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (17 PRs merged!)
+## Hacktoberfest projects (19 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -14,7 +14,7 @@ Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now)
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([3 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktober](https://github.com/narze/hacktober)
@@ -33,7 +33,7 @@ Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 - [Stelve](https://github.com/narze/stelve)
 - [Streamlarb](https://github.com/narze/streamlarb) ([1 Issues](https://github.com/narze/streamlarb/issues))
 - [Thailand-grand-opening](https://github.com/narze/thailand-grand-opening)
-- [ต่อเพลง](https://github.com/narze/torpleng) ([2 PRs](https://github.com/narze/torpleng/pulls))
+- [ต่อเพลง](https://github.com/narze/torpleng)
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
 - [Heatmap](https://github.com/Manoonchai/heatmap)
