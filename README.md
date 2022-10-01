@@ -3,12 +3,12 @@
 Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (25 PRs merged!)
+## Hacktoberfest projects (28 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech)
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
@@ -21,7 +21,7 @@ Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 - [Profile Updater](https://github.com/narze/profile-updater)
-- [React-useless](https://github.com/narze/react-useless) ([6 PRs](https://github.com/narze/react-useless/pulls) / [8 Issues](https://github.com/narze/react-useless/issues))
+- [React-useless](https://github.com/narze/react-useless) ([3 PRs](https://github.com/narze/react-useless/pulls) / [8 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
 - [Single-page-svelte](https://github.com/narze/single-page-svelte) ([1 Issues](https://github.com/narze/single-page-svelte/issues))
