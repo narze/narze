@@ -10,7 +10,7 @@ Live @ https://twitch.narze.live
 - [9speech](https://github.com/narze/9speech) ([1 Issues](https://github.com/narze/9speech/issues))
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([2 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now)
