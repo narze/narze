@@ -3,7 +3,7 @@
 Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (54 PRs merged!)
+## Hacktoberfest projects (56 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -14,14 +14,14 @@ Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now)
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([3 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([4 PRs](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Hacktober](https://github.com/narze/hacktober)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 - [Profile Updater](https://github.com/narze/profile-updater)
-- [React-useless](https://github.com/narze/react-useless) ([4 PRs](https://github.com/narze/react-useless/pulls) / [4 Issues](https://github.com/narze/react-useless/issues))
+- [React-useless](https://github.com/narze/react-useless) ([3 PRs](https://github.com/narze/react-useless/pulls) / [6 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
 - [Single-page-svelte](https://github.com/narze/single-page-svelte) ([1 Issues](https://github.com/narze/single-page-svelte/issues))
