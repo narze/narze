@@ -16,7 +16,7 @@ Live @ https://twitch.narze.live
 - [Coffee to Code](https://github.com/narze/coffee-to-code) ([7 PRs](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([1 PRs](https://github.com/narze/DaiMai/pulls))
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today) ([2 Issues](https://github.com/narze/deploydeemai.today/issues))
-- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 PRs](https://github.com/narze/dumb-questions-th/pulls))
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([2 PRs](https://github.com/narze/dumb-questions-th/pulls))
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
