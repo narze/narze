@@ -1,6 +1,6 @@
 # 👋 Hello I'm narze
 
-Live @ https://twitch.narze.live every Mon, Wed, Fri 10PM (ICT)
+Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
 ## Hacktoberfest projects (56 PRs merged!)
