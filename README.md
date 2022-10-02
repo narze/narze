@@ -3,23 +3,22 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (67 PRs merged!)
+## Hacktoberfest projects (87 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech) ([1 Issues](https://github.com/narze/9speech/issues))
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([3 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
-- [Can I order MacBook M1 Max in Thailand now?](https://github.com/narze/can-i-order-macbook-m1-max-in-thailand-now)
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([7 PRs](https://github.com/narze/coffee-to-code/pulls))
-- [ได้ไหม?](https://github.com/narze/DaiMai) ([1 PRs](https://github.com/narze/DaiMai/pulls))
-- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([3 PRs](https://github.com/narze/dumb-questions-th/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([2 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai)
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([2 PRs](https://github.com/narze/dumb-questions-th/pulls))
 - [Hacktober](https://github.com/narze/hacktober)
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
-- [นั่นมัน...!](https://github.com/narze/nunmun) ([2 PRs](https://github.com/narze/nunmun/pulls))
+- [นั่นมัน...!](https://github.com/narze/nunmun)
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [React-useless](https://github.com/narze/react-useless) ([4 PRs](https://github.com/narze/react-useless/pulls) / [8 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
@@ -29,7 +28,7 @@ Live @ https://twitch.narze.live
 - [Stelve](https://github.com/narze/stelve)
 - [Streamlarb](https://github.com/narze/streamlarb) ([1 Issues](https://github.com/narze/streamlarb/issues))
 - [Thailand-grand-opening](https://github.com/narze/thailand-grand-opening)
-- [ต่อเพลง](https://github.com/narze/torpleng) ([6 PRs](https://github.com/narze/torpleng/pulls))
+- [ต่อเพลง](https://github.com/narze/torpleng)
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
 - [Kiimo](https://github.com/Manoonchai/kiimo)
