@@ -29,7 +29,7 @@ Live @ https://twitch.narze.live
 - [Stelve](https://github.com/narze/stelve)
 - [Streamlarb](https://github.com/narze/streamlarb) ([1 Issues](https://github.com/narze/streamlarb/issues))
 - [Thailand-grand-opening](https://github.com/narze/thailand-grand-opening)
-- [ต่อเพลง](https://github.com/narze/torpleng) ([2 PRs](https://github.com/narze/torpleng/pulls))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([3 PRs](https://github.com/narze/torpleng/pulls))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
 - [Kiimo](https://github.com/Manoonchai/kiimo)
