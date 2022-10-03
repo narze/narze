@@ -22,7 +22,7 @@ Live @ https://twitch.narze.live
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls))
 - [Profile Updater](https://github.com/narze/profile-updater)
-- [React-useless](https://github.com/narze/react-useless) ([5 PRs](https://github.com/narze/react-useless/pulls) / [8 Issues](https://github.com/narze/react-useless/issues))
+- [React-useless](https://github.com/narze/react-useless) ([6 PRs](https://github.com/narze/react-useless/pulls) / [8 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
 - [Skoy.js](https://github.com/narze/skoy.js)
