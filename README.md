@@ -3,7 +3,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (106 PRs merged!)
+## Hacktoberfest projects (107 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -13,7 +13,7 @@ Live @ https://twitch.narze.live
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([2 PRs](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today) ([1 PRs](https://github.com/narze/deploydeemai.today/pulls) / [2 Issues](https://github.com/narze/deploydeemai.today/issues))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([4 PRs](https://github.com/narze/dumb-questions-th/pulls))
@@ -22,7 +22,7 @@ Live @ https://twitch.narze.live
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [นั่นมัน...!](https://github.com/narze/nunmun)
 - [Profile Updater](https://github.com/narze/profile-updater)
-- [React-useless](https://github.com/narze/react-useless) ([3 PRs](https://github.com/narze/react-useless/pulls) / [6 Issues](https://github.com/narze/react-useless/issues))
+- [React-useless](https://github.com/narze/react-useless) ([2 PRs](https://github.com/narze/react-useless/pulls) / [7 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
 - [Skoy.js](https://github.com/narze/skoy.js)
