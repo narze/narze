@@ -7,7 +7,7 @@ Live @ https://twitch.narze.live
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-- [9speech](https://github.com/narze/9speech) ([1 Issues](https://github.com/narze/9speech/issues))
+- [9speech](https://github.com/narze/9speech) ([1 PRs](https://github.com/narze/9speech/pulls) / [1 Issues](https://github.com/narze/9speech/issues))
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([5 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas) ([1 PRs](https://github.com/narze/awesome-maas/pulls))
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([1 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
