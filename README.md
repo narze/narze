@@ -3,11 +3,12 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (170 PRs merged!)
+## Hacktoberfest projects (171 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech)
+- [Append-on-merge-action](https://github.com/narze/append-on-merge-action)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([2 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([1 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
@@ -18,7 +19,7 @@ Live @ https://twitch.narze.live
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 PRs](https://github.com/narze/dumb-questions-th/pulls))
 - [Goragit](https://github.com/narze/goragit)
-- [Hacktober](https://github.com/narze/hacktober)
+- [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls))
 - [Ophtusify](https://github.com/narze/ophtusify)
