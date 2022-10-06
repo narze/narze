@@ -9,7 +9,6 @@ Live @ https://twitch.narze.live
 
 - [9speech](https://github.com/narze/9speech)
 - [Append-on-merge-action](https://github.com/narze/append-on-merge-action)
-- [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([2 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
@@ -25,7 +24,7 @@ Live @ https://twitch.narze.live
 - [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls))
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Profile Updater](https://github.com/narze/profile-updater)
-- [React-useless](https://github.com/narze/react-useless) ([3 PRs](https://github.com/narze/react-useless/pulls) / [5 Issues](https://github.com/narze/react-useless/issues))
+- [React-useless](https://github.com/narze/react-useless) ([4 PRs](https://github.com/narze/react-useless/pulls) / [5 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
 - [Skoy.js](https://github.com/narze/skoy.js)
@@ -45,7 +44,6 @@ Live @ https://twitch.narze.live
 <details><summary><strong>Active projects</strong></summary>
 
 - [.live](https://github.com/narze/.live)
-- [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [Garden](https://github.com/narze/garden)
