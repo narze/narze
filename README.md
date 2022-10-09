@@ -3,7 +3,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (229 PRs merged!)
+## Hacktoberfest projects (230 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -31,7 +31,7 @@ Live @ https://twitch.narze.live
 - [Skoy.js](https://github.com/narze/skoy.js)
 - [Stelve](https://github.com/narze/stelve)
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
-- [ต่อเพลง](https://github.com/narze/torpleng) ([1 PRs](https://github.com/narze/torpleng/pulls))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Working3times](https://github.com/narze/working3times)
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
