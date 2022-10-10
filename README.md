@@ -10,7 +10,7 @@ Live @ https://twitch.narze.live
 - [9speech](https://github.com/narze/9speech)
 - [Append-on-merge-action](https://github.com/narze/append-on-merge-action)
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([2 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([3 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
