@@ -7,7 +7,7 @@ Live @ https://twitch.narze.live
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-- [9speech](https://github.com/narze/9speech) ([1 PRs](https://github.com/narze/9speech/pulls))
+- [9speech](https://github.com/narze/9speech) ([2 PRs](https://github.com/narze/9speech/pulls))
 - [Append-on-merge-action](https://github.com/narze/append-on-merge-action)
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
