@@ -22,7 +22,7 @@ Live @ https://twitch.narze.live
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
-- [นั่นมัน...!](https://github.com/narze/nunmun)
+- [นั่นมัน...!](https://github.com/narze/nunmun) ([2 PRs](https://github.com/narze/nunmun/pulls))
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [React-useless](https://github.com/narze/react-useless) ([5 Issues](https://github.com/narze/react-useless/issues))
