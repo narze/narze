@@ -3,11 +3,11 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (315 PRs merged!)
+## Hacktoberfest projects (317 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-- [9speech](https://github.com/narze/9speech) ([1 PRs](https://github.com/narze/9speech/pulls))
+- [9speech](https://github.com/narze/9speech)
 - [Append-on-merge-action](https://github.com/narze/append-on-merge-action)
 - [Append_on_merge](https://github.com/narze/append_on_merge) ([1 PRs](https://github.com/narze/append_on_merge/pulls) / [2 Issues](https://github.com/narze/append_on_merge/issues))
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
@@ -23,7 +23,7 @@ Live @ https://twitch.narze.live
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 PRs](https://github.com/narze/hacktober/pulls) / [1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
-- [นั่นมัน...!](https://github.com/narze/nunmun) ([2 PRs](https://github.com/narze/nunmun/pulls))
+- [นั่นมัน...!](https://github.com/narze/nunmun)
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [React-useless](https://github.com/narze/react-useless) ([2 PRs](https://github.com/narze/react-useless/pulls) / [3 Issues](https://github.com/narze/react-useless/issues))
