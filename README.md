@@ -3,22 +3,22 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (330 PRs merged!)
+## Hacktoberfest projects (352 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech)
 - [Append_on_merge](https://github.com/narze/append_on_merge) ([1 PRs](https://github.com/narze/append_on_merge/pulls) / [2 Issues](https://github.com/narze/append_on_merge/issues))
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([5 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([1 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers) ([1 PRs](https://github.com/narze/awesome-websites-as-answers/pulls))
 - [Baht.js](https://github.com/narze/baht.js) ([1 PRs](https://github.com/narze/baht.js/pulls) / [1 Issues](https://github.com/narze/baht.js/issues))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([7 PRs](https://github.com/narze/coffee-to-code/pulls))
-- [ได้ไหม?](https://github.com/narze/DaiMai) ([3 PRs](https://github.com/narze/DaiMai/pulls))
-- [Deploydeemai.today](https://github.com/narze/deploydeemai.today) ([2 PRs](https://github.com/narze/deploydeemai.today/pulls))
-- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([6 PRs](https://github.com/narze/dumb-questions-th/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai)
+- [Deploydeemai.today](https://github.com/narze/deploydeemai.today) ([1 PRs](https://github.com/narze/deploydeemai.today/pulls))
+- [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 PRs](https://github.com/narze/hacktober/pulls) / [1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
@@ -31,7 +31,7 @@ Live @ https://twitch.narze.live
 - [Skoy.js](https://github.com/narze/skoy.js)
 - [Stelve](https://github.com/narze/stelve)
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
-- [ต่อเพลง](https://github.com/narze/torpleng) ([1 PRs](https://github.com/narze/torpleng/pulls) / [1 Issues](https://github.com/narze/torpleng/issues))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Working3times](https://github.com/narze/working3times)
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
