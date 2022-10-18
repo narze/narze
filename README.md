@@ -16,7 +16,7 @@ Live @ https://twitch.narze.live
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes) ([3 PRs](https://github.com/narze/awesome-salim-quotes/pulls))
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers) ([1 PRs](https://github.com/narze/awesome-websites-as-answers/pulls))
 - [Baht.js](https://github.com/narze/baht.js) ([1 PRs](https://github.com/narze/baht.js/pulls) / [1 Issues](https://github.com/narze/baht.js/issues))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([5 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([7 PRs](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai) ([3 PRs](https://github.com/narze/DaiMai/pulls))
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today) ([1 PRs](https://github.com/narze/deploydeemai.today/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([4 PRs](https://github.com/narze/dumb-questions-th/pulls))
