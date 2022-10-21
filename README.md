@@ -21,7 +21,7 @@ Live @ https://twitch.narze.live
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
-- [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
+- [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([1 PRs](https://github.com/narze/hacktoberfest_ez/pulls) / [2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls) / [1 Issues](https://github.com/narze/nunmun/issues))
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Profile Updater](https://github.com/narze/profile-updater)
