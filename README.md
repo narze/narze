@@ -3,7 +3,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (381 PRs merged!)
+## Hacktoberfest projects (382 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -22,7 +22,7 @@ Live @ https://twitch.narze.live
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([1 PRs](https://github.com/narze/hacktoberfest_ez/pulls) / [2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
-- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls) / [1 Issues](https://github.com/narze/nunmun/issues))
+- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 Issues](https://github.com/narze/nunmun/issues))
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [React-useless](https://github.com/narze/react-useless) ([1 PRs](https://github.com/narze/react-useless/pulls) / [3 Issues](https://github.com/narze/react-useless/issues))
