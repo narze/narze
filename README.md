@@ -34,7 +34,7 @@ Live @ https://twitch.narze.live
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 PRs](https://github.com/narze/torpleng/pulls) / [1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
-- [Tts-api](https://github.com/narze/tts-api) ([1 Issues](https://github.com/narze/tts-api/issues))
+- [Tts-api](https://github.com/narze/tts-api) ([1 PRs](https://github.com/narze/tts-api/pulls) / [1 Issues](https://github.com/narze/tts-api/issues))
 - [Working3times](https://github.com/narze/working3times)
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
 - [Kiimo](https://github.com/Manoonchai/kiimo)
