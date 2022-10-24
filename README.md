@@ -12,7 +12,7 @@ Live @ https://twitch.narze.live
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
-- [Awesome-rickroll-videos](https://github.com/narze/awesome-rickroll-videos) ([1 PRs](https://github.com/narze/awesome-rickroll-videos/pulls))
+- [Awesome-rickroll-videos](https://github.com/narze/awesome-rickroll-videos) ([3 PRs](https://github.com/narze/awesome-rickroll-videos/pulls))
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
