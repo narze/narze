@@ -3,14 +3,14 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (430 PRs merged!)
+## Hacktoberfest projects (431 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
 - [9speech](https://github.com/narze/9speech) ([1 PRs](https://github.com/narze/9speech/pulls))
 - [Append_on_merge](https://github.com/narze/append_on_merge) ([2 Issues](https://github.com/narze/append_on_merge/issues))
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
-- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([2 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
+- [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 PRs](https://github.com/narze/awesome-cheab-quotes/pulls) / [1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [Awesome-rickroll-videos](https://github.com/narze/awesome-rickroll-videos)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
