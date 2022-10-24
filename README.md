@@ -3,7 +3,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (423 PRs merged!)
+## Hacktoberfest projects (425 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -14,7 +14,7 @@ Live @ https://twitch.narze.live
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [Awesome-rickroll-videos](https://github.com/narze/awesome-rickroll-videos)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
-- [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers) ([1 PRs](https://github.com/narze/awesome-websites-as-answers/pulls))
+- [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
@@ -32,7 +32,7 @@ Live @ https://twitch.narze.live
 - [Skoy.js](https://github.com/narze/skoy.js)
 - [Stelve](https://github.com/narze/stelve)
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
-- [ต่อเพลง](https://github.com/narze/torpleng) ([1 PRs](https://github.com/narze/torpleng/pulls) / [2 Issues](https://github.com/narze/torpleng/issues))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Tts-api](https://github.com/narze/tts-api) ([1 Issues](https://github.com/narze/tts-api/issues))
 - [Working3times](https://github.com/narze/working3times)
