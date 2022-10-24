@@ -80,9 +80,12 @@ Live @ https://twitch.narze.live
 
 ## Stats
 
-[![wakatime](https://wakatime.com/badge/user/ee28b529-c920-4c92-a7c7-6a26fdff3ca5.svg)](https://wakatime.com/@ee28b529-c920-4c92-a7c7-6a26fdff3ca5)
+[![Wakatime Badge](https://wakatime.com/badge/user/ee28b529-c920-4c92-a7c7-6a26fdff3ca5.svg)](https://wakatime.com/@ee28b529-c920-4c92-a7c7-6a26fdff3ca5)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narze&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/narze)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narze&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000&hide=PHP)](https://github.com/narze)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=narze&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP)](https://wakatime.com/@narze)
+
 </details>
 
 This section is automatically updated with [narze/profile-updater](https://github.com/narze/profile-updater)
