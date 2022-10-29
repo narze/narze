@@ -3,7 +3,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (477 PRs merged!)
+## Hacktoberfest projects (478 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -18,7 +18,7 @@ Live @ https://twitch.narze.live
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
-- [Deploydeemai.today](https://github.com/narze/deploydeemai.today) ([1 PRs](https://github.com/narze/deploydeemai.today/pulls))
+- [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th) ([1 PRs](https://github.com/narze/dumb-questions-th/pulls))
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
