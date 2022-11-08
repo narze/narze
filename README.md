@@ -3,6 +3,8 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
+<details><summary>Hacktoberfest 2022</summary>
+
 ## Hacktoberfest projects (513 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
@@ -43,6 +45,8 @@ Live @ https://twitch.narze.live
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
 - [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com)
 - [Manoontype](https://github.com/Manoonchai/manoontype)
+
+</details>
 
 <details><summary><strong>Active projects</strong></summary>
 
