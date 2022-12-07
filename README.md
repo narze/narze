@@ -31,7 +31,7 @@ Live @ https://twitch.narze.live
 - [React-useless](https://github.com/narze/react-useless) ([2 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
-- [Skoy.js](https://github.com/narze/skoy.js)
+- [Skoy.js](https://github.com/narze/skoy.js) ([1 PRs](https://github.com/narze/skoy.js/pulls))
 - [Stelve](https://github.com/narze/stelve)
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
