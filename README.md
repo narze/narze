@@ -17,7 +17,7 @@ Live @ https://twitch.narze.live
 - [Awesome-rickroll-videos](https://github.com/narze/awesome-rickroll-videos)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
-- [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
+- [Baht.js](https://github.com/narze/baht.js)
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
