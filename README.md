@@ -5,9 +5,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-<details><summary>Hacktoberfest 2022</summary>
-
-## Hacktoberfest projects (507 PRs merged!)
+## Hacktoberfest projects (513 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -19,8 +17,8 @@ Live @ https://twitch.narze.live
 - [Awesome-rickroll-videos](https://github.com/narze/awesome-rickroll-videos)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
-- [Baht.js](https://github.com/narze/baht.js)
-- [Coffee to Code](https://github.com/narze/coffee-to-code)
+- [Baht.js](https://github.com/narze/baht.js) ([2 PRs](https://github.com/narze/baht.js/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 PRs](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
@@ -33,8 +31,9 @@ Live @ https://twitch.narze.live
 - [React-useless](https://github.com/narze/react-useless) ([2 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume)
-- [Skoy.js](https://github.com/narze/skoy.js) ([2 PRs](https://github.com/narze/skoy.js/pulls))
+- [Skoy.js](https://github.com/narze/skoy.js) ([3 PRs](https://github.com/narze/skoy.js/pulls))
 - [Stelve](https://github.com/narze/stelve)
+- [The-web-of-answers](https://github.com/narze/the-web-of-answers)
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
@@ -48,11 +47,10 @@ Live @ https://twitch.narze.live
 - [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com)
 - [Manoontype](https://github.com/Manoonchai/manoontype)
 
-</details>
-
 <details><summary><strong>Active projects</strong></summary>
 
 - [.live](https://github.com/narze/.live)
+- [10k-planner](https://github.com/narze/10k-planner)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [Garden](https://github.com/narze/garden)
@@ -67,7 +65,7 @@ Live @ https://twitch.narze.live
 - [Resume](https://github.com/narze/resume)
 - [Stelve](https://github.com/narze/stelve)
 - [Streamie](https://github.com/narze/streamie)
-- [Streamlarb](https://github.com/narze/streamlarb)
+- [Streamlarb-v1](https://github.com/narze/streamlarb-v1)
 - [That-paper-game](https://github.com/narze/that-paper-game)
 - [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
 - [Thwordle](https://github.com/narze/thwordle)
