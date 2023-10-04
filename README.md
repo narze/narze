@@ -9,32 +9,6 @@ Live @ https://twitch.narze.live
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-<details><summary><strong>Active projects</strong></summary>
-
-- [.live](https://github.com/narze/.live)
-- [10k-planner](https://github.com/narze/10k-planner)
-- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
-- [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
-- [Garden](https://github.com/narze/garden)
-- [Gash](https://github.com/narze/gash)
-- [Hacktober](https://github.com/narze/hacktober)
-- [Home-cluster](https://github.com/narze/home-cluster)
-- [Mermage](https://github.com/narze/mermage)
-- [Ophtusify](https://github.com/narze/ophtusify)
-- [Profile Updater](https://github.com/narze/profile-updater)
-- [React-useless](https://github.com/narze/react-useless)
-- [Resound](https://github.com/narze/resound)
-- [Resume](https://github.com/narze/resume)
-- [Stelve](https://github.com/narze/stelve)
-- [Streamie](https://github.com/narze/streamie)
-- [Streamlarb-v1](https://github.com/narze/streamlarb-v1)
-- [That-paper-game](https://github.com/narze/that-paper-game)
-- [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
-- [Thwordle](https://github.com/narze/thwordle)
-- [Manoonchai](https://github.com/Manoonchai/Manoonchai)
-
-</details>
-
 - [9speech](https://github.com/narze/9speech)
 - [Append_on_merge](https://github.com/narze/append_on_merge)
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
@@ -73,6 +47,32 @@ Live @ https://twitch.narze.live
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
 - [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com)
 - [Manoontype](https://github.com/Manoonchai/manoontype)
+
+<details><summary><strong>Active projects</strong></summary>
+
+- [.live](https://github.com/narze/.live)
+- [10k-planner](https://github.com/narze/10k-planner)
+- [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
+- [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
+- [Garden](https://github.com/narze/garden)
+- [Gash](https://github.com/narze/gash)
+- [Hacktober](https://github.com/narze/hacktober)
+- [Home-cluster](https://github.com/narze/home-cluster)
+- [Mermage](https://github.com/narze/mermage)
+- [Ophtusify](https://github.com/narze/ophtusify)
+- [Profile Updater](https://github.com/narze/profile-updater)
+- [React-useless](https://github.com/narze/react-useless)
+- [Resound](https://github.com/narze/resound)
+- [Resume](https://github.com/narze/resume)
+- [Stelve](https://github.com/narze/stelve)
+- [Streamie](https://github.com/narze/streamie)
+- [Streamlarb-v1](https://github.com/narze/streamlarb-v1)
+- [That-paper-game](https://github.com/narze/that-paper-game)
+- [THIS REPO HAS 3077 STARS (Banned)](https://github.com/narze/THIS_REPO_HAS_3077_STARS)
+- [Thwordle](https://github.com/narze/thwordle)
+- [Manoonchai](https://github.com/Manoonchai/Manoonchai)
+
+</details>
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : END %%%-->
 
