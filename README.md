@@ -5,11 +5,11 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (18 PRs merged!)
+## Hacktoberfest projects (20 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-- [9speech](https://github.com/narze/9speech) ([1 PRs](https://github.com/narze/9speech/pulls))
+- [9speech](https://github.com/narze/9speech)
 - [Append_on_merge](https://github.com/narze/append_on_merge)
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
 - [คำคมเฉียบ ๆ](https://github.com/narze/awesome-cheab-quotes) ([1 Issues](https://github.com/narze/awesome-cheab-quotes/issues))
@@ -25,7 +25,7 @@ Live @ https://twitch.narze.live
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
-- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls) / [1 Issues](https://github.com/narze/nunmun/issues))
+- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 Issues](https://github.com/narze/nunmun/issues))
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Pokemon-sleep-kitchen](https://github.com/narze/pokemon-sleep-kitchen)
 - [Profile Updater](https://github.com/narze/profile-updater)
