@@ -5,7 +5,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (20 PRs merged!)
+## Hacktoberfest projects (21 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
