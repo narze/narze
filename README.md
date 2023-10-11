@@ -31,7 +31,7 @@ Live @ https://twitch.narze.live
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [React-useless](https://github.com/narze/react-useless) ([2 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
-- [Resume](https://github.com/narze/resume)
+- [Resume](https://github.com/narze/resume) ([2 Issues](https://github.com/narze/resume/issues))
 - [Skoy.js](https://github.com/narze/skoy.js) ([3 PRs](https://github.com/narze/skoy.js/pulls))
 - [Stelve](https://github.com/narze/stelve)
 - [The-web-of-answers](https://github.com/narze/the-web-of-answers)
