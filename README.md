@@ -34,7 +34,7 @@ Live @ https://twitch.narze.live
 - [Resume](https://github.com/narze/resume) ([2 Issues](https://github.com/narze/resume/issues))
 - [Skoy.js](https://github.com/narze/skoy.js) ([3 PRs](https://github.com/narze/skoy.js/pulls))
 - [Stelve](https://github.com/narze/stelve)
-- [The-web-of-answers](https://github.com/narze/the-web-of-answers)
+- [The-web-of-answers](https://github.com/narze/the-web-of-answers) ([1 PRs](https://github.com/narze/the-web-of-answers/pulls))
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
