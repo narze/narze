@@ -5,7 +5,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (23 PRs merged!)
+## Hacktoberfest projects (25 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -18,7 +18,7 @@ Live @ https://twitch.narze.live
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
-- [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 PRs](https://github.com/narze/coffee-to-code/pulls))
+- [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
@@ -32,12 +32,12 @@ Live @ https://twitch.narze.live
 - [Profile Updater](https://github.com/narze/profile-updater)
 - [React-useless](https://github.com/narze/react-useless) ([2 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
-- [Resume](https://github.com/narze/resume) ([1 PRs](https://github.com/narze/resume/pulls) / [2 Issues](https://github.com/narze/resume/issues))
+- [Resume](https://github.com/narze/resume) ([1 Issues](https://github.com/narze/resume/issues))
 - [Skoy.js](https://github.com/narze/skoy.js) ([3 PRs](https://github.com/narze/skoy.js/pulls))
 - [Stelve](https://github.com/narze/stelve)
 - [The-web-of-answers](https://github.com/narze/the-web-of-answers) ([1 PRs](https://github.com/narze/the-web-of-answers/pulls))
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
-- [ต่อเพลง](https://github.com/narze/torpleng) ([3 PRs](https://github.com/narze/torpleng/pulls) / [1 Issues](https://github.com/narze/torpleng/issues))
+- [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
 - [Tts-api](https://github.com/narze/tts-api) ([1 Issues](https://github.com/narze/tts-api/issues))
 - [Working3times](https://github.com/narze/working3times)
