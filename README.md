@@ -5,7 +5,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (25 PRs merged!)
+## Hacktoberfest projects (26 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -35,7 +35,7 @@ Live @ https://twitch.narze.live
 - [Resume](https://github.com/narze/resume) ([1 Issues](https://github.com/narze/resume/issues))
 - [Skoy.js](https://github.com/narze/skoy.js) ([3 PRs](https://github.com/narze/skoy.js/pulls))
 - [Stelve](https://github.com/narze/stelve)
-- [The-web-of-answers](https://github.com/narze/the-web-of-answers) ([1 PRs](https://github.com/narze/the-web-of-answers/pulls))
+- [The-web-of-answers](https://github.com/narze/the-web-of-answers)
 - [Thwordle](https://github.com/narze/thwordle) ([1 Issues](https://github.com/narze/thwordle/issues))
 - [ต่อเพลง](https://github.com/narze/torpleng) ([1 Issues](https://github.com/narze/torpleng/issues))
 - [เว็บแปลงภาษาสก๊อย](https://github.com/narze/toSkoy) ([1 Issues](https://github.com/narze/toSkoy/issues))
