@@ -5,7 +5,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (26 PRs merged!)
+## Hacktoberfest projects (27 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -26,6 +26,7 @@ Live @ https://twitch.narze.live
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
+- [Merge_on_merge](https://github.com/narze/merge_on_merge)
 - [นั่นมัน...!](https://github.com/narze/nunmun) ([1 Issues](https://github.com/narze/nunmun/issues))
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Pokemon-sleep-kitchen](https://github.com/narze/pokemon-sleep-kitchen)
