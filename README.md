@@ -27,7 +27,7 @@ Live @ https://twitch.narze.live
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
 - [Merge_on_merge](https://github.com/narze/merge_on_merge)
-- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 Issues](https://github.com/narze/nunmun/issues))
+- [นั่นมัน...!](https://github.com/narze/nunmun) ([1 PRs](https://github.com/narze/nunmun/pulls) / [1 Issues](https://github.com/narze/nunmun/issues))
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Pokemon-sleep-kitchen](https://github.com/narze/pokemon-sleep-kitchen)
 - [Profile Updater](https://github.com/narze/profile-updater)
@@ -47,7 +47,7 @@ Live @ https://twitch.narze.live
 - [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
 - [Learn](https://github.com/Manoonchai/learn) ([1 Issues](https://github.com/Manoonchai/learn/issues))
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
-- [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 Issues](https://github.com/Manoonchai/manoonchai.com/issues))
+- [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 PRs](https://github.com/Manoonchai/manoonchai.com/pulls) / [1 Issues](https://github.com/Manoonchai/manoonchai.com/issues))
 - [Manoontype](https://github.com/Manoonchai/manoontype)
 
 <details><summary><strong>Active projects</strong></summary>
