@@ -5,7 +5,7 @@
 Live @ https://twitch.narze.live
 
 <!--%%% PROFILE UPDATER (narze/profile-updater) : START %%%-->
-## Hacktoberfest projects (40 PRs merged!)
+## Hacktoberfest projects (42 PRs merged!)
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
@@ -19,7 +19,7 @@ Live @ https://twitch.narze.live
 - [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
-- [ได้ไหม?](https://github.com/narze/DaiMai) ([1 PRs](https://github.com/narze/DaiMai/pulls))
+- [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Emkay](https://github.com/narze/emkay) ([3 Issues](https://github.com/narze/emkay/issues))
@@ -31,7 +31,7 @@ Live @ https://twitch.narze.live
 - [Ophtusify](https://github.com/narze/ophtusify)
 - [Pokemon-sleep-kitchen](https://github.com/narze/pokemon-sleep-kitchen)
 - [Profile Updater](https://github.com/narze/profile-updater)
-- [React-useless](https://github.com/narze/react-useless) ([1 PRs](https://github.com/narze/react-useless/pulls) / [1 Issues](https://github.com/narze/react-useless/issues))
+- [React-useless](https://github.com/narze/react-useless) ([1 Issues](https://github.com/narze/react-useless/issues))
 - [Resound](https://github.com/narze/resound)
 - [Resume](https://github.com/narze/resume) ([1 Issues](https://github.com/narze/resume/issues))
 - [Skoy.js](https://github.com/narze/skoy.js) ([3 PRs](https://github.com/narze/skoy.js/pulls))
