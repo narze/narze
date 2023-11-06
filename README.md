@@ -20,7 +20,7 @@
 - [ได้ไหม?](https://github.com/narze/DaiMai)
 - [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
-- [Emkay](https://github.com/narze/emkay) ([3 Issues](https://github.com/narze/emkay/issues))
+- [Emkay](https://github.com/narze/emkay) ([1 Issues](https://github.com/narze/emkay/issues))
 - [Goragit](https://github.com/narze/goragit)
 - [Hacktober](https://github.com/narze/hacktober) ([1 Issues](https://github.com/narze/hacktober/issues))
 - [Hacktoberfest EZ](https://github.com/narze/hacktoberfest_ez) ([2 Issues](https://github.com/narze/hacktoberfest_ez/issues))
