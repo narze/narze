@@ -18,7 +18,7 @@
 - [Awesome-maas](https://github.com/narze/awesome-maas)
 - [Awesome-rickroll-videos](https://github.com/narze/awesome-rickroll-videos)
 - [วาทะสลิ่มสุดเจ๋ง](https://github.com/narze/awesome-salim-quotes)
-- [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers)
+- [Awesome-websites-as-answers](https://github.com/narze/awesome-websites-as-answers) ([1 PRs](https://github.com/narze/awesome-websites-as-answers/pulls))
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code) ([1 PRs](https://github.com/narze/coffee-to-code/pulls))
 - [ได้ไหม?](https://github.com/narze/DaiMai)
