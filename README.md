@@ -22,7 +22,7 @@
 - [Baht.js](https://github.com/narze/baht.js) ([1 Issues](https://github.com/narze/baht.js/issues))
 - [Coffee to Code](https://github.com/narze/coffee-to-code)
 - [ได้ไหม?](https://github.com/narze/DaiMai)
-- [Deploydeemai.today](https://github.com/narze/deploydeemai.today)
+- [Deploydeemai.today](https://github.com/narze/deploydeemai.today) ([1 PRs](https://github.com/narze/deploydeemai.today/pulls))
 - [คำถามโง่ ๆ](https://github.com/narze/dumb-questions-th)
 - [Emkay](https://github.com/narze/emkay) ([1 PRs](https://github.com/narze/emkay/pulls) / [1 Issues](https://github.com/narze/emkay/issues))
 - [Goragit](https://github.com/narze/goragit)
