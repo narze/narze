@@ -45,7 +45,7 @@
 - [Tts-api](https://github.com/narze/tts-api) ([1 Issues](https://github.com/narze/tts-api/issues))
 - [Working3times](https://github.com/narze/working3times)
 - [Carpalx-th](https://github.com/Manoonchai/carpalx-th)
-- [Kiimo](https://github.com/Manoonchai/kiimo)
+- [Kiimo](https://github.com/Manoonchai/kiimo) ([1 PRs](https://github.com/Manoonchai/kiimo/pulls))
 - [Layout-analyzer](https://github.com/Manoonchai/layout-analyzer)
 - [Learn](https://github.com/Manoonchai/learn) ([1 Issues](https://github.com/Manoonchai/learn/issues))
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
