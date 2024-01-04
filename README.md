@@ -9,8 +9,6 @@
 
 [What is Hacktoberfest?](https://hacktoberfest.digitalocean.com)
 
-</details>
-
 - [9speech](https://github.com/narze/9speech)
 - [Append_on_merge](https://github.com/narze/append_on_merge)
 - [Awesome-blockchain-technologies](https://github.com/narze/awesome-blockchain-technologies)
@@ -51,6 +49,8 @@
 - [Manoonchai](https://github.com/Manoonchai/Manoonchai) ([4 Issues](https://github.com/Manoonchai/Manoonchai/issues))
 - [Manoonchai.com](https://github.com/Manoonchai/manoonchai.com) ([1 PRs](https://github.com/Manoonchai/manoonchai.com/pulls) / [1 Issues](https://github.com/Manoonchai/manoonchai.com/issues))
 - [Manoontype](https://github.com/Manoonchai/manoontype)
+
+</details>
 
 <details><summary><strong>Active projects</strong></summary>
 
