@@ -86,6 +86,8 @@
 
 <details><summary><strong>Stats</strong></summary>
 -->
+Thwordle is opened for Hacktoberfest contribution! -> https://github.com/narze/thwordle/issues/48
+
 <div align="center">
 
   [![Wakatime Badge](https://wakatime.com/badge/user/ee28b529-c920-4c92-a7c7-6a26fdff3ca5.svg)](https://wakatime.com/@ee28b529-c920-4c92-a7c7-6a26fdff3ca5)
