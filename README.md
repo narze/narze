@@ -85,8 +85,9 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/narze)
 
 <details><summary><strong>Stats</strong></summary>
--->
+
 Thwordle is opened for Hacktoberfest contribution! -> https://github.com/narze/thwordle/issues/48
+-->
 
 <div align="center">
 
